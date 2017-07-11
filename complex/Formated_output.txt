@@ -1,0 +1,824 @@
+--------------------------------------------------------
+In Scotland, two battlefields, Culloden (1746) and Bannockburn (1314), stand out as iconic spaces, recognised not only by Scots but also by visitors.
+
+Rule2- In what , two battlefields , Culloden ( 1746 ) and Bannockburn ( 1314 ) , stand out as iconic spaces , recognised not only by Scots but also by visitors ?
+Rule10- How many battlefields , in Scotland , Culloden ( 1746 ) and Bannockburn ( 1314 ) , stand out as iconic spaces , recognised not only by Scots but also by visitors ?
+Rule6- Who stand out as iconic spaces ?
+Rule6- Who also by visitors ?
+--------------------------------------------------------
+Following his horse-riding interests, he enlisted in 1915 in the Yeomanry, and was sent to the front in France in early 1916.
+
+Rule2- In what did he enlist in the Yeomanry ?
+Rule2- In what did he enlist in 1915 ?
+Rule6- Who enlisted in 1915 in the Yeomanry ?
+Rule7- In how much in the Yeomanry he enlisted ?
+Rule9- How much he enlisted in the Yeomanry ?
+Rule1- To what was he sent in France in early 1916 ?
+Rule2- In Where was he sent to the front in early 1916 ?
+Rule2- In what was he sent to the front in France ?
+Rule3- What was he sent to the front in France in early 1916 ?
+Rule6- Who was sent to the front in France in early 1916 ?
+Rule11- Where was sent to the front 1916 ?
+Rule11- When was sent to the front ?
+--------------------------------------------------------
+Given that our desires often conflict, it would be impossible for us to live in a society which imposed no limits whatsoever on what we do.
+
+Rule6- Who often conflict ?
+which Imposed no limits whatsoever on what you do ?
+what You do ?
+Rule2- For Whom would it be impossible to live in a society which imposed no limits whatsoever on what you do ?
+Rule2- In what would it be impossible for us to live which imposed no limits whatsoever on what you do ?
+Rule3- What would it be whatsoever on what you do ?
+Rule6- Who would be impossible for us to live in a society which imposed no limits whatsoever on what you do ?
+Rule6- Who whatsoever on what you do ?
+Rule6- Who do ?
+Rule5- What would it be impossible for us to do in a society which imposed no limits whatsoever on what you do ?
+--------------------------------------------------------
+This shows the expansion of Rome's control through the third and second centuries BC, at the death of Augustus in AD 14, and at the end of Trajan's reign in AD 117.
+
+Rule2- Of what does this show the expansion through the third and second centuries BC ?
+Rule2- Through what does this show the expansion of Rome 's control third and second centuries BC ?
+Rule3- What does this show of Rome 's control through the third and second centuries BC ?
+Rule6- Who shows the expansion of Rome 's control through the third and second centuries BC ?
+Rule2- At the death of Augustus in what , this shows the expansion of Rome 's control through the third and second centuries BC , and at the end of Trajan 's reign in AD 117 ?
+Rule2- At the end of Trajan 's reign in what , this shows the expansion of Rome 's control through the third and second centuries BC , at the death of Augustus in AD 14 , ?
+Rule4- At the end of whose reign in AD 117 , this shows the expansion of Rome 's control through the third and second centuries BC , at the death of Augustus in AD 14 ?
+Rule11- Where does this show the expansion through the third and second centuries BC ?
+Rule12- Where does this show the expansion of Rome 's control third and second centuries BC ?
+--------------------------------------------------------
+And later in the same century the Roman Emperor Marcus Aurelius dispatched a trading mission by land which communicated directly with Huan-ti, the emperor of China.
+
+which Communicated directly with Huan-ti ?
+Rule2- Later in by what did the same century the Roman Emperor Marcus Aurelius dispatch a trading mission which communicated directly with Huan-ti ?
+Rule2- Later in the same century the Roman Emperor Marcus Aurelius dispatched a trading mission by land which with what communicated directli ?
+Rule3- What did the same century the Roman Emperor Marcus Aurelius dispatch by land which communicated directly with Huan-ti ?
+Rule6- Who dispatched a trading mission by land which communicated directly with Huan-ti ?
+Rule6- Who communicated directly with Huan-ti ?
+Rule2- The emperor of what , and later in the same century the Roman Emperor Marcus Aurelius dispatched a trading mission by land which communicated directly with Huan-ti , ?
+--------------------------------------------------------
+According to his official biography, Omidyar was seeking a way to use the Internet to create an efficient marketplace.
+
+Rule1- According to what , Omidyar was seeking a way to use the Internet to create an efficient marketplace ?
+Rule3- What was Omidyar seeking to use the Internet to create an efficient marketplace ?
+Rule3- What was Omidyar seeking to create an efficient marketplace ?
+Rule3- What was Omidyar seeking ?
+Rule4- According to whose official biography , Omidyar was seeking a way to use the Internet to create an efficient marketplace ?
+Rule6- Who was seeking a way to use the Internet to create an efficient marketplace ?
+Rule5- What was Omidyar seeking a way to do to create an efficient marketplace ?
+--------------------------------------------------------
+ASC takes a character as input, and returns the integer giving the ASCII code of the input character.
+
+Rule2- As what does ASC take a character ?
+Rule3- What does ASC take as input ?
+Rule6- Who takes a character as input ?
+Rule2- Of what ASC returns the integer giving the ASCII code ?
+Rule3- What returns the integer giving of the input character ?
+Rule6- Who giving the ASCII code of the input character ?
+Rule11- Where returns the integer giving the input character ?
+--------------------------------------------------------
+The chaos after Hurricane Katrina did not cause a civilizational collapse, it simply exposed and magnified one that had already occurred.
+
+Rule3- What did Hurricane Katrina did ?
+Rule6- Who did not cause a civilizational collapse ?
+Rule3- What that had already occurred ?
+Rule6- Who simply exposed and magnified one that had already occurred ?
+Rule6- Who magnified one that had already occurred ?
+--------------------------------------------------------
+Edinburgh reaches over the Firth of Forth with two great bridges, the photogenic Victorian Forth Rail Bridge and the slender 1960s Forth Road Bridge.
+
+Rule2- Over what does Edinburgh reach of Forth with two great bridges ?
+Rule2- Of Where does Edinburgh reach over the Firth with two great bridges ?
+Rule2- With what does Edinburgh reach over the Firth of Forth great bridges ?
+Rule6- What reaches over the Firth of Forth with two great bridges ?
+Rule7- With how much great bridges does Edinburgh reach over the Firth of Forth ?
+Rule10- How many great bridges does Edinburgh reach over the Firth of Forth with ?
+Rule10- The photogenic victorian Forth Rail Bridge and the slender how many Forth Road Bridge , Edinburgh reaches over the Firth of Forth with two great bridges ?
+Rule12- Where does Edinburgh reach of Forth with two great bridges ?
+--------------------------------------------------------
+Plastics are further subdivided into thermoplastics and thermosets, the latter type being materials where the long chains are linked together by crosslinks, a feature they share with conventional vulcanized rubbers.
+
+Rule2- Into what are plastics further subdivided and thermosets ?
+Rule3- What are plastics into thermoplastics and thermosets ?
+Rule6- Who are further subdivided into thermoplastics and thermosets ?
+where Are the long chains linked together by crosslinks ?
+Rule2- The latter type being materials where by what are the long chains linked together ?
+Rule3- What the latter type being where the long chains are linked together by crosslinks ?
+Rule3- What are the long chains linked together by crosslinks ?
+Rule6- Who being materials where the long chains are linked together by crosslinks ?
+Rule6- Who are linked together by crosslinks ?
+Rule2- With what a feature they share ?
+Rule3- What do a feature they share ?
+Rule6- Who share with conventional vulcanized rubbers ?
+Rule12- Where plastics are further subdivided and thermosets ?
+--------------------------------------------------------
+A pie chart is a way of presenting proportional data in the form of a circle, the 'pie'.
+
+Rule2- Of what is a pie chart a way proportional data in the form of a circle ?
+Rule2- A pie chart is in what a way of presenting proportional data of a circle ?
+Rule2- A pie chart is of what a way of presenting proportional data in the form ?
+Rule3- What is a pie chart of presenting proportional data in the form of a circle ?
+Rule3- What is a pie chart in the form of a circle ?
+Rule6- Who is a way of presenting proportional data in the form of a circle ?
+Rule6- Who presenting proportional data in the form of a circle ?
+--------------------------------------------------------
+In the last century, the population of the planet has risen from approximately 1.65 billion to somewhere in excess of 6.5 billion.
+
+Rule2- In what , the population of the planet has risen from approximately 1.65 billion to somewhere in excess of 6.5 billion ?
+Rule2- From what has the population of the planet risen to somewhere in excess of 6.5 billion ?
+Rule2- The population of the planet has risen in what from approximately 1.65 billion to somewhere of 6.5 billion ?
+Rule2- The population of the planet has risen of what from approximately 1.65 billion to somewhere in excess ?
+Rule3- What has the planet risen from approximately 1.65 billion to somewhere in excess of 6.5 billion ?
+Rule6- Who has risen from approximately 1.65 billion to somewhere in excess of 6.5 billion ?
+Rule6- Who approximately 1.65 billion to somewhere in excess of 6.5 billion ?
+Rule7- Of how much the population of the planet has risen from approximately 1.65 billion to somewhere in excess ?
+Rule5- What from approximately 1.65 billion to do in excess of 6.5 billion ?
+--------------------------------------------------------
+Switzerland is the most famous example of direct democracy today, though the recall vote which led to Arnold Schwarzenegger becoming Governor of California is probably the biggest recent direct democracy event.
+
+Rule2- Of what is Switzerland the most famous example ?
+Rule3- What is Switzerland of direct democracy today ?
+Rule6- What is the most famous example of direct democracy today ?
+Rule6- Who most famous example of direct democracy today ?
+which Led to Arnold Schwarzenegger becoming Governor of California is probably the biggest recent direct democracy event ?
+Rule2- Though the recall vote which led to of Where Arnold Schwarzenegger becoming Governor is probably the biggest recent direct democracy event ?
+Rule3- What Arnold Schwarzenegger becoming of California is probably the biggest recent direct democracy event ?
+Rule3- What is California biggest recent direct democracy event ?
+Rule6- Who is probably the biggest recent direct democracy event ?
+Rule11- Where is the most famous example of direct democracy today ?
+Rule11- When is Switzerland the most famous example of direct democracy ?
+Rule11- Where though the recall vote which led to Arnold Schwarzenegger becoming the biggest recent direct democracy event ?
+--------------------------------------------------------
+Earthquakes mainly occur when the different blocks or plates that make up the Earth's surface move relative to each other, causing distortion in the rock.
+
+when The different blocks or plates that make up the Earth 's surface move relative to each other ?
+Rule1- To what do Earthquakes mainly occur when the different blocks or plates that make up the Earth 's surface move relative other ?
+Rule2- That what Earthquakes mainly occur when the different blocks or plates up the Earth 's surface move relative to each other ?
+Rule3- What make up the Earth 's surface relative to each other ?
+Rule6- Who mainly occur when the different blocks or plates that make up the Earth 's surface move relative to each other ?
+Rule2- In what each causing distortion ?
+Rule3- What each causing in the rock ?
+Rule6- Who causing distortion in the rock ?
+Rule11- Where do earthquakes mainly occur when the different blocks or plates that make move relative to each other ?
+--------------------------------------------------------
+Striking a tuning fork causes its prongs to vibrate, but very little sound is produced because the prongs move back and forth through the air without particularly disturbing it.
+
+Rule2- Very because what sound little is produced move back and forth through the air without particularly disturbing it ?
+Rule2- Very little sound is produced through what move because the prongs back and forth without particularly disturbing it ?
+Rule2- Very little sound is produced without what move because the prongs back and forth through the air ?
+Rule3- What little very sound is produced because the prongs move back and forth through the air without particularly disturbing it ?
+Rule6- Who is produced because the prongs move back and forth through the air without particularly disturbing it ?
+Rule6- Who is produced because the prongs move back and forth through the air without particularly disturbing it ?
+Rule6- Who move back and forth through the air without particularly disturbing it ?
+Rule6- Who particularly disturbing it ?
+why Is very little sound produced ?
+Rule12- Where very little sound is produced because the prongs move back and without particularly disturbing it ?
+--------------------------------------------------------
+In a similar mood of aggrieved self-righteousness and revolutionary exultation came the fall of the Bastille, the medieval fortress and prison of Paris, on 14 July 1789.
+
+Rule2- In a similar mood of aggrieved self-righteousness and of what did revolutionary exultation came the fall ?
+Rule3- What did revolutionary exultation came of the Bastille ?
+Rule6- Who aggrieved self-righteousness and revolutionary exultation came the fall of the Bastille ?
+Rule6- Who came the fall of the Bastille ?
+Rule2- The medieval fortress and prison of what , in a similar mood of aggrieved self-righteousness and revolutionary exultation came the fall of the Bastille , on 14 July 1789 ?
+Rule2- On what , in a similar mood of aggrieved self-righteousness and revolutionary exultation came the fall of the Bastille , the medieval fortress and prison of Paris ?
+Rule10- On how many July 1789 , in a similar mood of aggrieved self-righteousness and revolutionary exultation came the fall of the Bastille , the medieval fortress and prison of Paris ?
+Rule11- Where in a similar mood of aggrieved self-righteousness and revolutionary exultation came the fall ?
+--------------------------------------------------------
+The ancient city of Thugga is often known by its modern name , Dugga .
+
+Rule2- By what is the ancient city of Thugga often known modern name ?
+Rule3- What is thugga by its modern name ?
+Rule6- Who is often known by its modern name ?
+--------------------------------------------------------
+Caine's acting career began in Horsham, Sussex.
+
+Rule2- In what did Carine 's acting career began ?
+Rule6- Who began in Horsham ?
+Rule4- Whose acting career began in Horsham ?
+Rule11- Where did Caine 's acting career begin ?
+--------------------------------------------------------
+After 1840, the Irish arrived in large numbers, in part because of the famines of the 1840s.
+
+Rule2- After what , the Irish arrived in large numbers , in part because of the famines of the 1840s ?
+Rule2- In what did the Irish arriv ?
+Rule6- Who arrived in large numbers ?
+Rule2- In part because of the famines of what , after 1840 , the Irish arrived in large numbers , ?
+--------------------------------------------------------
+With a total area of about 106.4 million square kilometres (41.1 million square miles), it covers approximately one-fifth of the Earth's surface and about one-quarter of its water surface area.
+
+Rule6- Who about 106.4 million square kilometres ( 41.1 million square miles ) ?
+Rule10- How many square kilometres square miles with a total area of about ( ) ?
+Rule2- Of what does it cover approximately one-fifth and about one-quarter of its water surface area ?
+Rule2- Of what does it cover approximately one-fifth of the Earth 's surface and about one-quarter ?
+Rule6- Who covers approximately one-fifth of the Earth 's surface and about one-quarter of its water surface area ?
+Rule11- Where does it cover and about one-quarter of its water surface area ?
+--------------------------------------------------------
+Since the invention of the first Voltaic pile in 1800 by Alessandro Volta, the battery has become a common power source for many household and industrial applications.
+
+Rule2- Since the invention of the first Voltaic pile in 1800 by whom , the battery has become a common power source for many household and industrial applications ?
+Rule2- For what has the battery become a common power source and industrial applications ?
+Rule3- What has the battery become for many household and industrial applications ?
+Rule6- Who has become a common power source for many household and industrial applications ?
+--------------------------------------------------------
+Based on the Japanese surname Dictionary issued in July 1996, there are 291,129 different surnames in Japan.
+
+Rule2- Based on in what did the japanese surname Dictionary issu ?
+Rule6- Who issued in July 1996 ?
+Rule3- What different surnames in Japan ?
+Rule10- How many different surnames in July are there in Japan ?
+Rule11- Where in July there are 291,129 different surnames ?
+Rule11- When there are 291,129 different surnames in Japan ?
+Rule11- Where are 291,129 different surnames in Japan ?
+--------------------------------------------------------
+An adult male weighs around 350 - 680 kg (770 - 1,500 lb), while an adult female is about half that .
+
+Rule2- An adult male weighs around what - 680 kg ( 770 - 1,500 lb ) , while an adult female is about half that ?
+Rule10- An adult male weighs around 350 - 680 kg ( 770 - how many lb ) , while an adult female is about half that ?
+Rule6- Who is about half that ?
+--------------------------------------------------------
+The word "lava" comes from Italian, and is probably derived from the Latin word labes which means a fall or slide.
+
+which Means a fall or slide ?
+Rule2- From what is probably derived labes which means a fall or slide ?
+Rule3- What from the Latin word labes which means a fall or slide ?
+Rule3- What the latin word labe or slide ?
+Rule6- Who is probably derived from the Latin word labes which means a fall or slide ?
+Rule6- Who labes which means a fall or slide ?
+--------------------------------------------------------
+Two important variables used for the classification of igneous rocks are particle size, which largely depends upon the cooling history, and the mineral composition of the rock.
+
+Rule2- For what two important variables used of igneous rocks are particle size ?
+Rule2- Of what two important variables used for the classification are particle size ?
+Rule3- What are igneous rocks ?
+Rule6- Who used for the classification of igneous rocks are particle size ?
+Rule6- Who are particle size ?
+Rule10- How many important variables used for the classification of igneous rocks are particle size ?
+which Largely depends upon the cooling history ?
+Rule2- Upon what particle size largely depend ?
+Rule6- Who largely depends upon the cooling history ?
+Rule2- The mineral composition of what , two important variables used for the classification of igneous rocks are particle size , which largely depends upon the cooling history ?
+--------------------------------------------------------
+The Ford Motor Company was launched in a converted factory in 1903 with 28,000 in cash from twelve investors, most notably John and Horace Dodge (who would later found their own car company).
+
+Rule2- In what was the Ford Motor Company launched in 1903 with 28,000 in cash from twelve investors ?
+Rule2- The Ford Motor Company was launched in what in a converted factory with 28,000 in cash from twelve investors ?
+Rule2- The Ford Motor Company was launched with what in a converted factory in 1903 in cash from twelve investors ?
+Rule2- The Ford Motor Company was launched in what in a converted factory in 1903 with 28,000 from twelve investors ?
+Rule2- The Ford Motor Company was launched from what in a converted factory in 1903 with 28,000 in cash ?
+Rule3- What was the Ford Motor Company launched in a converted factory in 1903 with 28,000 in cash from twelve investors ?
+Rule3- What a converted in 1903 with 28,000 in cash from twelve investors ?
+Rule6- Who was launched in a converted factory in 1903 with 28,000 in cash from twelve investors ?
+Rule6- Who converted factory in 1903 with 28,000 in cash from twelve investors ?
+Rule7- In how much with in cash from twelve investors the Ford Motor Company was launched in a converted factory ?
+who Would later found their own car company ?
+Rule3- What own car company ?
+Rule11- Where converted factory in 1903 with 28,000 in cash from twelve investors ?
+Rule11- Where a converted factory in 1903 with 28,000 in cash from twelve investors ?
+Rule11- Where in a converted factory in 1903 with 28,000 in cash from twelve investors ?
+Rule11- When was the Ford Motor Company launched in a converted factory with 28,000 in cash from twelve investors ?
+
+--------------------------------------------------------
+In March 2009, Blackstone Group CEO Stephen Schwarzman said that up to 45% of global wealth had been destroyed in little less than a year and a half.
+
+Rule2- In what , Blackstone Group CEO Stephen Schwarzman said that up to 45 % of global wealth had been destroyed in little less than a year and a half ?
+Rule1- To what did Blackstone Group CEO Stephen Schwarzman said that up of global wealth had been destroyed in little less than a year and a half ?
+Rule2- Of what did Blackstone Group CEO Stephen Schwarzman said that up to 45 % had been destroyed in little less than a year and a half ?
+Rule2- Blackstone Group CEO Stephen Schwarzman said that up to 45 % of in what had global wealth been destroyed than a year and a half ?
+Rule2- Blackstone Group CEO Stephen Schwarzman said that up to 45 % of than what had global wealth been destroyed in little less and a half ?
+Rule3- What had global wealth been destroyed in little less than a year and a half ?
+Rule6- Who said that up to 45 % of global wealth had been destroyed in little less than a year and a half ?
+Rule6- Who had been destroyed in little less than a year and a half ?
+Rule11- Where said that up to 45 % of global wealth had been destroyed in little less than a year and a half ?
+Rule11- Where did Schwarzman say that up to 45 % of global wealth had been destroyed in little less than a year and a half ?
+--------------------------------------------------------
+The current editor is Geraldine Kennedy, who succeeded Conor Brady in 2002.
+
+Rule3- Whom is the current editor ?
+Rule6- Who is Geraldine Kennedy ?
+who Succeeded Conor Brady in 2002 ?
+Rule2- In what did Geraldine Kennedy succeed Conor Brady ?
+Rule3- Whom did Geraldine Kennedy succeed in 2002 ?
+Rule6- Who succeeded Conor Brady in 2002 ?
+Rule7- In how much Geraldine Kennedy succeeded Conor Brady ?
+Rule11- When did Geraldine Kennedy succeed ?
+--------------------------------------------------------
+The cabinet succeeded the third Balkenende cabinet following the 2006 election, and was installed by Queen Beatrix on 22 February 2007.
+
+Rule3- What did the cabinet succeed ?
+Rule6- Who succeeded the third Balkenende cabinet following the 2006 election ?
+Rule6- Who following the 2006 election ?
+Rule10- How many election did the cabinet succeed the third Balkenende cabinet following ?
+Rule2- By what was installed on 22 February 2007 ?
+Rule2- On what was installed by Queen Beatrix ?
+Rule3- What by Queen Beatrix on 22 February 2007 ?
+Rule6- Who was installed by Queen Beatrix on 22 February 2007 ?
+Rule7- On how much February 2007 was installed by Queen Beatrix ?
+Rule10- How many February was installed by Queen Beatrix on 2007 ?
+Rule11- When did the cabinet succeed the third Balkenende cabinet following election ?
+Rule11- When was installed 2007 ?
+Rule11- When was installed ?
+--------------------------------------------------------
+The largest in terms of total mass is the giant moray (Gymnothorax javanicus), which reaches almost 3 metres (9.8 ft) and can weigh over 36 kilograms (79 lb).
+
+Rule3- What is total mass ( Gymnothorax javanicus ) ?
+Rule6- Who is the giant moray ( Gymnothorax javanicus ) ?
+which Reaches almost 3 metres ( 9.8 ft ) and can weigh over 36 kilograms ( 79 lb ) ?
+Rule2- Reaches almost 3 metres ( 9.8 ft ) over what can and weigh ( 79 lb ) ?
+Rule6- Who almost 3 metres ( 9.8 ft ) and can weigh over 36 kilograms ( 79 lb ) ?
+Rule6- Who can weigh over 36 kilograms ( 79 lb ) ?
+Rule7- Over how much kilograms ( 79 lb ) reaches almost 3 metres ( 9.8 ft ) and can weigh ?
+Rule9- How much reaches almost 3 metres ( 9.8 ft ) and can weigh over kilograms ( 79 lb ) ?
+Rule10- How many metres ft kilograms lb reaches almost ( ) and can weigh over ( ) ?
+--------------------------------------------------------
+Hence, sometimes, as we age and the slippery tissue in between our joint breaks down and wears away, bone spurs may form in along the edges of the joints.
+
+Rule2- In what as you age and the slippery tissue joint breaks down and wears away ?
+Rule6- Who age and the slippery tissue in between our joint breaks down and wears away ?
+Rule6- Who away ?
+Rule2- In what may bone spurs form of the joints ?
+Rule2- Of what may bone spurs form in along the edges ?
+Rule6- Who may form in along the edges of the joints ?
+--------------------------------------------------------
+If you shoot a mid-size photo with "normal" resolution, you might even be able to get about a thousand on the card.
+
+Rule3- What do you shoot with `` normal '' resolution ?
+Rule6- Who shoot a mid-size photo with `` normal '' resolution ?
+Rule2- About what might you even be able to get on the card ?
+Rule2- On what might you even be able to get about a thousand ?
+Rule6- Who might even be able to get about a thousand on the card ?
+Rule5- What might you even be able to do about a thousand on the card ?
+--------------------------------------------------------
+Unix is the best memory management Operating system , there are many derivatives of Unix , Linux is the new kid on the block. 
+
+Rule3- What is Unix ?
+Rule6- Who is the best memory management operating system ?
+Rule2- Of what are the best memory management operating system there many derivatives ?
+Rule6- Who there are many derivatives of Unix ?
+Rule2- On what is linux the new kid ?
+Rule3- What is linux on the block ?
+Rule6- Who is the new kid on the block ?
+Rule11- Where are many derivatives of Unix ?
+--------------------------------------------------------
+Rabies is not contracted by the consumption of food, regardless of whether it is clean or not.
+
+Rule2- By what is Rabies not contracted of food ?
+Rule2- Of what is Rabies not contracted by the consumption ?
+Rule3- What is rabies by the consumption of food ?
+Rule6- Who is not contracted by the consumption of food ?
+Rule6- Who is clean or not ?
+--------------------------------------------------------
+Here in Italy most students take some English classes, but other than language classes, lessons are in Italian here and in the native tongue in other countries.
+
+Rule3- What do most students take ?
+Rule6- Who most students take some english classes ?
+Rule6- Who take some english classes ?
+Rule2- Other than what , here in Italy most students take some english classes , lessons are in italian here and in the native tongue in other countries ?
+Rule2- In what are lessons in italian here and in other countries ?
+Rule2- In what are lessons in italian here and in the native tongue ?
+Rule6- Who are in italian here and in the native tongue in other countries ?
+Rule11- Where most students take some english classes ?
+Rule11- Where are lessons and in the native tongue in other countries ?
+--------------------------------------------------------
+Yes, all instruments for Guitar Hero are compatible with all Rock Band games, and vice versa.
+
+Rule2- With what are all instruments for Guitar Hero compatible ?
+Rule6- Who are compatible with all Rock Band games ?
+Rule11- Where are all instruments for Guitar Hero ?
+--------------------------------------------------------
+A good book about Queen is, As It Began which is cowritten by Jacky Gunn Smith who is the president of the Queen International Fan Club.
+
+Rule6- Who is ?
+which Is cowritten by Jacky Gunn Smith who is the president of the Queen International Fan Club ?
+who Is the president of the Queen International Fan Club ?
+Rule3- What by Jacky Gunn Smith who is the president of the Queen International Fan Club ?
+Rule3- What of the Queen International Fan Club ?
+Rule11- Where A good book about Queen as it Began which is cowritten by Jacky Gunn Smith who is the president ?
+--------------------------------------------------------
+In Australia you no longer can buy the ordinary incandescent globes, as you probably already know.
+
+Rule3- What can Australia you no longer buy ?
+Rule6- What can buy the ordinary incandescent globes ?
+Rule6- Who probably already know ?
+Rule11- Where can incandescent longer buy the ordinary globes ?
+--------------------------------------------------------
+Their ancestors migrated through the middle east and near east into Europe,beginning some 30-40 thousand years ago.
+
+Rule2- Through Where did their ancestors migrated and near east into Europe ?
+Rule2- Into what did their ancestors migrated through the middle east and near east ?
+Rule6- Who migrated through the middle east and near east into Europe ?
+Rule4- Whose ancestors migrated through the middle east and near east into Europe ?
+Rule10- Beginning some how many thousand years ago , their ancestors migrated through the middle east and near east into Europe ?
+Rule11- Where did their ancestors migrate through the middle east and ?
+Rule12- Where did their ancestors migrate and near east into Europe ?
+Rule12- Where did their ancestors migrate through the middle east and near ?
+--------------------------------------------------------
+Sell your wii and get a PS3, you will find how pathetic the wii is in a short time.
+
+Rule6- Who get a PS3 ?
+Rule2- You will find how in what is pathetic the wii ?
+Rule6- Who will find how pathetic the wii is in a short time ?
+Rule6- Who is in a short time ?
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+It is vital to be worried about information security because much of the value of a business is concentrated in the value of its information.
+
+Rule2- About what is it vital to be worried because much of the value of a business is concentrated in the value of its information ?
+Rule2- Of what is it vital to be worried about information security because much of a business is concentrated in the value of its information ?
+Rule2- Of what is it vital to be worried about information security because much of the value is concentrated in the value of its information ?
+Rule2- It is vital to be worried about information security because in what is much of the value of a business concentrated of its information ?
+Rule2- It is vital to be worried about information security because of what is much of the value of a business concentrated in the value ?
+Rule3- What is it about information security because much of the value of a business is concentrated in the value of its information ?
+Rule3- What is a business concentrated in the value of its information ?
+Rule6- Who is vital to be worried about information security because much of the value of a business is concentrated in the value of its information ?
+Rule6- Who is concentrated in the value of its information ?
+Rule5- What is it vital to do worried about information security because much of the value of a business is concentrated in the value of its information ?
+Why Is it vital to be worried about information security ?
+--------------------------------------------------------
+The Sun is a G-type main sequence star comprising about 99.86% of the total mass of the Solar System.
+
+Rule2- The Sun is about what a g-type main sequence star comprising of the total mass of the Solar System ?
+Rule2- The Sun is of what a g-type main sequence star comprising about 99.86 % of the Solar System ?
+Rule2- The Sun is of what a g-type main sequence star comprising about 99.86 % of the total mass ?
+Rule3- What is the Sun about 99.86 % of the total mass of the Solar System ?
+Rule6- Who is a g-type main sequence star comprising about 99.86 % of the total mass of the Solar System ?
+Rule6- Who comprising about 99.86 % of the total mass of the Solar System ?
+Rule7- About how much % of the total mass of the Solar System the Sun is a g-type main sequence star comprising ?
+Rule9- How much the Sun is a g-type main sequence star comprising about % of the total mass of the Solar System ?
+--------------------------------------------------------
+I am sure their fans would rather stay up and not win the UEFA Cup than be relegated and win the UEFA Cup.
+
+Rule1- You are sure their fans would rather stay up to what and not win the UEFA Cup be relegated and win the UEFA Cup ?
+Rule2- You are sure their fans would rather stay up t what and not win the UEFA Cup be relegated and win the UEFA Cup ?
+Rule3- What are you would rather stay up and not win the UEFA Cup t you be relegated and win the UEFA Cup ?
+Rule3- What sure their fans would t you be relegated and win the UEFA Cup ?
+Rule3- What sure their fans would be relegated and win the UEFA Cup ?
+Rule3- What be the UEFA Cup t you relegated and win the UEFA Cup ?
+Rule3- What be the UEFA Cup t you relegated ?
+Rule6- Who is sure their fans would rather stay up and not win the UEFA Cup than be relegated and win the UEFA Cup ?
+Rule6- Who would rather stay up and not win the UEFA Cup than be relegated and win the UEFA Cup ?
+Rule6- Who not win the UEFA Cup than be relegated and win the UEFA Cup ?
+Rule6- Who be relegated and win the UEFA Cup ?
+Rule6- Who win the UEFA Cup ?
+Rule5- What not win the UEFA Cup to do be relegated and win the UEFA Cup ?
+Rule4- Whose fans would rather stay up and not win the UEFA Cup t you be relegated and win the UEFA Cup ?
+Rule4- Whose you be relegated and win the UEFA Cup ?
+Rule11- Where would i am sure their fans rather stay up and not win the UEFA Cup than be relegated and win ?
+--------------------------------------------------------
+DNA research shows that the inhabitants of Ireland came from Spain in prehistoric times.
+
+Rule2- That what does DNA research show of Ireland came from Spain in prehistoric times ?
+Rule2- Of Where does DNA research show that the inhabitants came from Spain in prehistoric times ?
+Rule2- Dna research shows from where did that the inhabitants of Ireland came in prehistoric times ?
+Rule2- Dna research shows in what did that the inhabitants of Ireland came from Spain ?
+Rule6- Who shows that the inhabitants of Ireland came from Spain in prehistoric times ?
+Rule6- Who came from Spain in prehistoric times ?
+What Dna research show ?
+Rule11- Where DNA research shows that the inhabitants Spain in prehistoric times ?
+Rule11- From where DNA research shows that the inhabitants of Ireland came times ?
+--------------------------------------------------------
+I will say that Eiffel Tower helped Paris to become number one romantic place.
+
+Rule1- To what will you say Eiffel Tower helped Paris to become number one romantic place ?
+Rule2- That Where will you say helped Paris to become number one romantic place ?
+Rule3- What will you say Eiffel Tower helped Paris to become number one romantic place ?
+Rule3- What did t you Eiffel Tower help to become number one romantic place ?
+Rule3- What did t you Eiffel Tower help romantic place ?
+Rule6- Who will say that Eiffel Tower helped Paris to become number one romantic place ?
+Rule6- What helped Paris to become number one romantic place ?
+Rule10- How many romantic place you will say that Eiffel Tower helped Paris to become number ?
+Rule5- What will you say to do Eiffel Tower helped Paris to become number one romantic place ?
+Rule5- What did t you Eiffel Tower help Paris to do one romantic place ?
+Rule4- Whose you Eiffel Tower helped Paris to become number one romantic place ?
+What Will you say ?
+Rule11- Where will i say become number one romantic place ?
+Rule11- Where will i say to become number one romantic place ?
+Rule11- Where will i say that Eiffel Tower helped number one romantic place ?
+--------------------------------------------------------
+It is also very likely that your laptop is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency.
+
+Rule2- That what is it also very likely is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule2- It is also very of what is likely that your laptop not capable with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule2- It is also very likely that your laptop is not with what capable of working as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule2- It is also very likely that your laptop is not as what capable of working with Windows XP of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule2- It is also very likely that your laptop is not of what capable of working with Windows XP as a result on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule2- It is also very likely that your laptop is not on what capable of working with Windows XP as a result of insufficient system resources which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule2- It is also very likely that your laptop is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why at what is your laptop not preforming ?
+Rule3- What is your laptop why your laptop is not preforming at its optimum proficiency ?
+Rule3- What is your laptop at its optimum proficiency ?
+Rule6- Who is also very likely that your laptop is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule6- Who is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule6- Who working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule6- Who is not preforming at its optimum proficiency ?
+Rule10- How many reason it is also very likely that your laptop is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is why your laptop is not preforming at its optimum proficiency ?
+Rule4- Whose laptop is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency ?
+Rule4- Whose laptop is not preforming at its optimum proficiency ?
+What Is it also very likely ?
+--------------------------------------------------------
+Feed with a high first number fertilizer in the spring.
+
+Rule11- When feed with a high first number fertilizer ?
+--------------------------------------------------------
+I used to be a hair dresser so continue on with the straightening and get it trimmed an inch or two every few weeks and keep straightening and on with that routine.
+
+Rule1- You used to be to what a hair dresser so continu w you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule1- You used to be a hair dresser so continue to what o you you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule1- You used to be a hair dresser so continue o you w you the straightening and get it trimmed an inch or two to what keep every few weeks and straightening and w you that routine ?
+Rule1- You used to be a hair dresser so continue o you w you the straightening and get it trimmed an inch or two to what keep every few weeks and straightening and o you that routine ?
+Rule2- You used to be on what a hair dresser so continu and get it trimmed an inch or two every few weeks and keep straightening and on with that routine ?
+Rule2- You used to be a hair dresser so continue on with the straightening and get it trimmed an inch or two on what keep every few weeks and straightening and ?
+Rule3- What did you use so continue o you w you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule3- What o you w you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule3- What o you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule3- What you the straightening trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule3- What did it trim or two every few weeks and keep straightening and o you w you that routine ?
+Rule3- What did it trim and o you w you that routine ?
+Rule3- What did it trim w you that routine ?
+Rule3- What o you w that routine ?
+Rule6- Who used to be a hair dresser so continue on with the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule6- Who so continue on with the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule6- Who get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule6- Who trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule6- Who keep straightening and o you w you that routine ?
+Rule6- Who you w you that routine ?
+Rule6- Who you that routine ?
+Rule5- What did you use to do so continue o you w you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule5- What a hair dresser so continu to do w you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule5- What o you you to do the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule5- What keep every few weeks and straightening and to do w you that routine ?
+Rule5- What keep every few weeks and straightening and o you to do that routine ?
+Rule4- Whose you w you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule4- Whose you the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you that routine ?
+Rule4- Whose you w you that routine ?
+Rule4- Whose you that routine ?
+What You used to be a hair dresser so continue on with the straightening and get it trimmed an inch or two every few weeks and keep straightening and o you w you ?
+--------------------------------------------------------
+I do not think Australia is infamous for poor medical facilities so I would not be worried about paralysis. 
+
+Rule1- You do not think to what is Australia infamous poor medical facilities s you you would not be worried a you paralysis ?
+Rule1- You do not think Australia is to what infamous f you poor medical facilities you would not be worried a you paralysis ?
+Rule1- You do not think Australia is infamous f you poor to what would medical facilities s you you not be worried paralysis ?
+Rule2- You do not think for what is Australia infamous so you would not be worried about paralysis ?
+Rule2- You do not think Australia is infamous so Whom f you poor medical facilities would not be worried about paralysis ?
+Rule2- You do not think Australia is infamous f you about what medical poor facilities so you would not be worried ?
+Rule3- What do you do is infamous f you poor medical facilities s you you would not be worried a you paralysis ?
+Rule3- What is Australia poor medical facilities s you you would not be worried a you paralysis ?
+Rule3- What infamous f you poor you would not be worried a you paralysis ?
+Rule3- What medical facilities s you you would a you paralysis ?
+Rule3- What medical facilities s you you would paralysis ?
+Rule6- Who do not think Australia is infamous f you poor medical facilities so you would not be worried a you paralysis ?
+Rule6- What is infamous f you poor medical facilities so you would not be worried a you paralysis ?
+Rule6- Who you poor medical facilities so you would not be worried a you paralysis ?
+Rule6- Who would not be worried a you paralysis ?
+Rule6- Who you paralysis ?
+Rule5- What is Australia infamous to do poor medical facilities s you you would not be worried a you paralysis ?
+Rule5- What infamous f you poor medical facilities to do you would not be worried a you paralysis ?
+Rule5- What would medical facilities s you you not be worried to do paralysis ?
+Rule4- Whose you poor medical facilities s you you would not be worried a you paralysis ?
+Rule4- Whose you you would not be worried a you paralysis ?
+Rule4- Whose you paralysis ?
+Rule11- Where worried i do not think for poor medical facilities so i would not be about paralysis ?
+--------------------------------------------------------
+you had to wear gloves because it contained caustic soda or something.
+
+Rule2- Because Whom did you had to wear gloves contained caustic soda or something ?
+Rule3- What did you had because it contained caustic soda or something ?
+Rule3- What did it contain or something ?
+Rule6- Who had to wear gloves because it contained caustic soda or something ?
+Rule6- Who contained caustic soda or something ?
+Rule5- What did you had to do because it contained caustic soda or something ?
+Why Did you have to wear gloves ?
+--------------------------------------------------------
+Although Goya's first major engraved series, Los Caprichos, went briefly on sale before being withdrawn, his later series, Disasters of War, was not published during his lifetime.
+Rule3- What being withdrawn ?
+Rule6- Who being withdrawn ?
+Rule4- Whose later series , although Goya 's first major engraved series , Los Caprichos , went briefly on sale before being withdrawn , Disasters of War , was not published during his lifetime ?
+Rule2- Disasters of what , although Goya 's first major engraved series , Los Caprichos , went briefly on sale before being withdrawn , his later series , was not published during his lifetime ?
+--------------------------------------------------------
+This method was much used by astronomers towards the end of the sixteenth century, particularly by the great Danish astronomer Tycho Brahe, who was visited by a young friend of Napier, John Craig, in 1590.
+Rule2- By what was this method much used of the sixteenth century ?
+Rule2- Of what was this method much used by astronomers towards the end ?
+Rule3- What was this method by astronomers towards the end of the sixteenth century ?
+Rule6- Who was much used by astronomers towards the end of the sixteenth century ?
+Rule2- Particularly by what , this method was much used by astronomers towards the end of the sixteenth century , who was visited by a young friend of Napier , John Craig , in 1590 ?
+who Was visited by a young friend of Napier ?
+--------------------------------------------------------
+Just after Columbus sailed across the Atlantic Ocean the Pope, asserting the 'right' to control non-Christian lands, drew a line to separate the spheres of influence of Spain and Portugal.
+Rule2- Just across what did after Columbus sail ?
+Rule6- Who sailed across the Atlantic Ocean the Pope ?
+--------------------------------------------------------
+There are approximately 8000 people and over 500 Chinese businesses across Northern Ireland.
+Rule3- What and over 500 chinese businesses across Northern Ireland ?
+Rule7- Over how much chinese businesses across Northern Ireland there are approximately 8000 people and ?
+Rule10- How many people chinese businesses there are approximately and over across Northern Ireland ?
+--------------------------------------------------------
+The 1864 Geneva Convention followed, where 12 nation states agreed to respect the community of military hospitals and their staff, to care for sick and wounded soldiers whatever their nationality and to respect the emblem of the Red Cross.
+Rule6- Who followed ?
+Rule10- How many Geneva Convention followed ?
+where 12 nation states agreed to respect the community of military hospitals and their staff ?
+Rule2- 12 of what did nation states agre to respect the community and their staff ?
+Rule3- What nation 12 states agreed of military hospitals and their staff ?
+Rule6- Who agreed to respect the community of military hospitals and their staff ?
+Rule10- How many nation states agreed to respect the community of military hospitals and their staff ?
+Rule5- What did nation states agre to do of military hospitals and their staff ?
+Rule2- To care for sick and wounded of what soldiers whatev their nationality and to respect the emblem ?
+Rule3- What whatever their nationality and to respect the emblem of the Red Cross ?
+Rule3- What of the Red Cross ?
+Rule6- Who wounded soldiers whatever their nationality and to respect the emblem of the Red Cross ?
+Rule6- Who whatever their nationality and to respect the emblem of the Red Cross ?
+--------------------------------------------------------
+Tolkien had one sibling, his younger brother, Hilary Arthur Reuel, who was born on 17 February 1894 .
+Rule3- What did Tolkien had ?
+Rule6- Who had one sibling ?
+Rule10- How many sibling Tolkien had ?
+Rule4- Whose younger brother , Tolkien had one sibling , Hilary Arthur Reuel , who was born on 17 February 1894 ?
+who Was born on 17 February 1894 ?
+--------------------------------------------------------
+The UN's most visible public figure is the Secretary-General, currently Ban Ki-moon of South Korea, who attained the post in 2007.
+Rule3- What is most visible public figure Secretary-General ?
+Rule6- Who is the secretary-General ?
+Rule4- Whose most visible public figure is the secretary-General ?
+Rule2- Currently Ban Ki-moon of what , the UN 's most visible public figure is the secretary-General , who attained the post in 2007 ?
+who Attained the post in 2007 ?
+--------------------------------------------------------
+Although it is often thought of as a British native wild flower, or to have been brought to the British Isles by the Romans, it was probably introduced around the early sixteenth century.
+Rule2- Of what is although it often thought british native wild flower ?
+Rule3- What is it of as a british native wild flower ?
+Rule6- Who is often thought of as a british native wild flower ?
+Rule6- Who as a british native wild flower ?
+Rule1- Or to have to what been brought by the romans ?
+Rule2- Or to have by what been brought to the british isles romans ?
+Rule3- What been brought to the british isles by the romans ?
+Rule6- Who been brought to the british isles by the romans ?
+--------------------------------------------------------
+The integrated Intel chipset video cards will not give you the performance you want out of WoW even with 4 GB of RAM.
+
+Rule2- The integrated Intel chipset video cards will not give of what you the performance you want out even with 4 GB of RAM ?
+--------------------------------------------------------
+The most notable attempts to make thorough descriptions of language occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe North American Indian languages which were disappearing as English became more powerful.
+
+Rule2- Of what the most notable attempts to make thorough descriptions occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule2- The most notable attempts to make in what did thorough descriptions of language occur at the beginning of the twentieth century when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule2- The most notable attempts to make at what did thorough descriptions of language occur in the USA of the twentieth century when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule2- The most notable attempts to make of what did thorough descriptions of language occur in the USA at the beginning when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule2- The most notable attempts to make thorough descriptions of language occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe as what North american Indian languag which were disappearing more powerful ?
+Rule3- What of language occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule3- What did anthropologists sought languages which were disappearing as English became more powerful ?
+Rule3- What North american Indian languag as english became more powerful ?
+Rule6- Who most notable attempts to make thorough descriptions of language occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule6- Who occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule6- Who sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule6- Who languages which were disappearing as English became more powerful ?
+Rule6- Who became more powerful ?
+Rule5- What the most notable attempts to do of language occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe north american Indian languages which were disappearing as English became more powerful ?
+Rule5- What did anthropologists sought to do languages which were disappearing as English became more powerful ?
+--------------------------------------------------------
+The poet Rudyard Kipling lost his only son in the trenches in 1915.
+
+Rule2- In what the poet Rudyard Kipling lost his only son in 1915 ?
+Rule2- In what the poet Rudyard Kipling lost his only son in the trenches ?
+Rule3- What the poet Rudyard Kipling lost only son in the trenches in 1915 ?
+Rule6- Who lost his only son in the trenches in 1915 ?
+Rule7- In how much the poet Rudyard Kipling lost his only son in the trenches ?
+Rule 11 : where the poet son in the trenches in 1915 . ?
+Rule 11 : where the poet only son in the trenches in 1915 . ?
+Rule 11 : when the poet Rudyard Kipling lost his only son in the trenches . ?
+--------------------------------------------------------
+Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and the Mekong Delta confirm the existence of trading links between China and the classical Mediterranean world.
+
+Rule2- Of what Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and the Mekong Delta confirm the existence between China and the classical Mediterranean world ?
+Rule2- Between Where Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and the Mekong Delta confirm the existence of trading links and the classical Mediterranean world ?
+Rule3- What of trading links between China and the classical Mediterranean world ?
+Rule3- What the Mekong Delta confirm between China and the classical Mediterranean world ?
+Rule6- Who confirm the existence of trading links between China and the classical Mediterranean world ?
+Rule6- Who trading links between China and the classical Mediterranean world ?
+Rule 11 : where Archaelogical discoveries of Roman coins and a bronze lamp confirm the existence of trading links between China and the classical Mediterranean world . ?
+Rule 11 : where Archaelogical discoveries of Roman coins and a bronze lamp Delta confirm the existence of trading links between China and the classical Mediterranean world . ?
+Rule 11 : where Archaelogical discoveries of Roman coins and a bronze lamp Mekong Delta confirm the existence of trading links between China and the classical Mediterranean world . ?
+Rule 11 : where Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and of trading links between China and the classical Mediterranean world . ?
+Rule 11 : where Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and existence of trading links between China and the classical Mediterranean world . ?
+Rule 11 : where Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and the Mekong Delta confirm the existence of trading links classical Mediterranean world . ?
+Rule 11 : where Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and the Mekong Delta confirm the existence of trading links between China and ?
+--------------------------------------------------------
+The unit for measuring frequency is the Hertz.
+
+Rule3- What is the Hertz ?
+Rule3- What is measuring frequency ?
+Rule6- Who is the Hertz ?
+Rule 11 : where the unit for measuring frequency is ?
+--------------------------------------------------------
+Digital computers can not store real numbers exactly.
+
+Rule3- What Digital computers can exactly ?
+Rule6- Who can not store real numbers exactly ?
+Rule6- Who exactly ?
+--------------------------------------------------------
+The James Bond film series are film adaptations inspired by Ian Fleming's novels about the fictional MI6 agent James Bond codename007.
+
+Rule2- The James Bond film series are by what film adaptations inspir about the fictional MI6 agent James Bond codename007 ?
+Rule2- The James Bond film series are about what film adaptations inspir by Ian Fleming 's novels ?
+Rule3- What are the James Bond film series by Ian Fleming 's novels about the fictional MI6 agent James Bond codename007 ?
+Rule6- Who are film adaptations inspired by Ian Fleming 's novels about the fictional MI6 agent James Bond codename007 ?
+Rule6- Who inspired by Ian Fleming 's novels about the fictional MI6 agent James Bond codename007 ?
+--------------------------------------------------------
+The first hydrogen-filled balloon was invented by Jacques Charles in 1783.
+
+Rule2- By Whom was the first hydrogen-filled balloon invented in 1783 ?
+Rule2- In what was the first hydrogen-filled balloon invented by Jacques Charles ?
+Rule3- What was the first hydrogen-filled balloon invented by Jacques Charles in 1783 ?
+Rule6- Who was invented by Jacques Charles in 1783 ?
+Rule7- In how much the first hydrogen-filled balloon was invented by Jacques Charles ?
+Rule 11 : when the first hydrogen-filled balloon was invented . ?
+--------------------------------------------------------
+Human activities since the start of the industrial era around 1750 have increased the levels of greenhouse gases in the atmosphere.
+
+Rule3- What have 1750 increased of greenhouse gases in the atmosphere ?
+Rule7- Around how much have increased the levels of greenhouse gases in the atmosphere Human activities since the start of the industrial era ?
+Rule8- How much Human activities since the start of the industrial era around have increased the levels of greenhouse gases in the atmosphere ?
+Rule 11 : when Human activities since the start of the industrial era have increased the levels of greenhouse gases in the atmosphere . ?
+Rule 12 : where Human activities since the start of the industrial era have increased the levels of greenhouse gases in the atmosphere . ?
+--------------------------------------------------------
+Vienna is the capital of the Republic of Austria and one of the nine states of Austria.
+
+Rule2- Of what is Vienna the capital of Austria and one of the nine states of Austria ?
+Rule2- Of Where is Vienna the capital of the Republic and one of the nine states of Austria ?
+Rule2- Of what is Vienna the capital of the Republic of Austria and one of Austria ?
+Rule2- Of Where is Vienna the capital of the Republic of Austria and one of the nine states ?
+Rule3- What is Vienna of the Republic of Austria and one of the nine states of Austria ?
+Rule6- What is the capital of the Republic of Austria and one of the nine states of Austria ?
+Rule10- How many states Vienna is the capital of the Republic of Austria and one of of Austria ?
+Rule 11 : where capital of the Republic of Austria and one of the nine states of Austria . ?
+Rule 11 : where Vienna is the capital of the nine states of Austria . ?
+Rule 11 : where Vienna is the capital of the Republic of Austria and one of the nine states ?
+--------------------------------------------------------
+The World Bank is one of two institutions created at the Bretton Woods Conference in 1944.
+
+Rule2- Of what is the World Bank one at the Bretton Woods Conference in 1944 ?
+Rule2- The World Bank is one of two at what institutions creat in 1944 ?
+Rule2- The World Bank is one of two in what institutions creat at the Bretton Woods Conference ?
+Rule3- What is the World Bank of two institutions created at the Bretton Woods Conference in 1944 ?
+Rule6- Who is one of two institutions created at the Bretton Woods Conference in 1944 ?
+Rule6- Who created at the Bretton Woods Conference in 1944 ?
+Rule7- Of how much institutions created at the Bretton Woods Conference in the World Bank is one ?
+Rule10- How many institutions the World Bank is one of created at the Bretton Woods Conference in 1944 ?
+Rule 11 : where two institutions created at the Bretton Woods Conference in 1944 . ?
+Rule 11 : where of two institutions created at the Bretton Woods Conference in 1944 . ?
+Rule 11 : where the World Bank is one of two institutions created ?
+Rule 11 : where the World Bank is one of two institutions created ?
+Rule 11 : where the World Bank is one of two institutions created . ?
+Rule 11 : when the World Bank is one of two institutions created . ?
+--------------------------------------------------------
+Prevent sandbur from returning to these areas by applying a pre-emergent herbicide containing trifluralin or eptam in early spring.
+
+Rule1- To what Prevent sandbur from returning by applying a pre-emergent herbicide containing trifluralin or eptam in early spring ?
+Rule2- By what Prevent sandbur from returning to these areas pre-emergent herbicide containing trifluralin or eptam in early spring ?
+Rule2- Prevent sandbur from returning to these areas by applying in what a pre-emergent herbicide containing trifluralin or eptam ?
+Rule3- What or eptam in early spring ?
+Rule6- Who returning to these areas by applying a pre-emergent herbicide containing trifluralin or eptam in early spring ?
+Rule6- Who applying a pre-emergent herbicide containing trifluralin or eptam in early spring ?
+Rule6- Who containing trifluralin or eptam in early spring ?
+Rule 11 : when Prevent sandbur from returning to these areas by applying a pre-emergent herbicide containing trifluralin or eptam . ?
+--------------------------------------------------------
+The Mars rover's solar panels only provide enough power to move less than one MPH and go a maximum distance of a few hundred feet in a whole day.
+
+Rule2- The Mars rover 's than what provide solar panels only enough power to move less and go a maximum distance of a few hundred feet in a whole day ?
+Rule2- The Mars rover 's solar panels only provide enough power to move less than one of what do MPH and go a maximum distance in a whole day ?
+Rule2- The Mars rover 's solar panels only provide enough power to move less than one in what do MPH and go a maximum distance of a few hundred feet ?
+Rule3- What of a few hundred feet in a whole day ?
+Rule6- Who only provide enough power to move less than one MPH and go a maximum distance of a few hundred feet in a whole day ?
+Rule6- Who go a maximum distance of a few hundred feet in a whole day ?
+Rule7- Than how much MPH and go a maximum distance of a few hundred feet in a whole day the Mars rover 's solar panels only provide enough power to move less ?
+Rule10- How many MPH the Mars rover 's solar panels only provide enough power to move less than and go a maximum distance of a few hundred feet in a whole day ?
+Rule5- What solar panels only provid enough power to do than one MPH and go a maximum distance of a few hundred feet in a whole day ?
+--------------------------------------------------------
+People are more likely to be attacked by a captive killer whale than be attacked by a wild one.
+
+Rule2- By what are people more likely to be attacked than be attacked by a wild one ?
+Rule2- People are more likely to be attacked by by what be a captive killer whale than attacked ?
+Rule3- What are people by a captive killer whale than be attacked by a wild one ?
+Rule3- What are people by a wild one ?
+Rule6- Who more likely to be attacked by a captive killer whale than be attacked by a wild one ?
+Rule6- Who be attacked by a wild one ?
+Rule5- What are people more likely to do attacked by a captive killer whale than be attacked by a wild one ?
+--------------------------------------------------------
+Montenegro is a potential candidate for membership in the European Union and uses the Euro.
+
+Rule2- For what is Montenegro a potential candidate in the European Union and uses the Euro ?
+Rule2- In what is Montenegro a potential candidate for membership and uses the Euro ?
+Rule3- What is Montenegro for membership in the European Union and uses the Euro ?
+Rule3- What is Montenegro ?
+Rule6- What is a potential candidate for membership in the European Union and uses the Euro ?
+Rule6- Who uses the Euro ?
+Rule 11 : where potential candidate for membership in the European Union and uses the Euro . ?
+Rule 11 : where Montenegro is a potential candidate for membership Euro . ?
+Rule 11 : where Montenegro is a potential candidate for membership the Euro . ?
+Rule 11 : where Montenegro is a potential candidate for membership in the European Union and uses ?
+--------------------------------------------------------
+Usually the dealer has to hit until they get 17.
+
+Rule2- Usually until Whom does the dealer ha to hit get 17 ?
+Rule3- What do they get ?
+Rule6- Who has to hit until they get 17 ?
+Rule6- Who get 17 ?
+Rule5- What does the dealer ha to do until they get 17 ?

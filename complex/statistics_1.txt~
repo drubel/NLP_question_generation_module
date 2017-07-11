@@ -1,0 +1,32 @@
+Source:complex.txt
+Output:output_complex.txt
+Total sentence:74
+Total generated question:606
+Total relevent question:214+21
+Total meaningless question:257
+Total borderline question:114
+
+     | who  what  whom  whose  howmany  howmuch  when  where  which  why   borderline  meaningless 
+-----
+ who   74+6                                                                    31          49             159
+
+ what        72+5                                                              51          134            295
+
+ whom               5                                                          1           2               8
+
+ whose                    8                                                    2           9               19
+
+ howmany                          13                                           2           9
+
+ howmuch                                   6                                   1           13              41
+
+ when                                             16                           2           5               28
+
+ where                                                   20                    24          36              74
+
+ which                                                           7
+
+ why                                                                   3
+ 
+-----------------------------------------------------------------------------------------------------------
+total    80    77    5    8         13      6       16     20     7     3       114        257      
