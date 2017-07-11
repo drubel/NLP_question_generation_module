@@ -1,0 +1,327 @@
+import nltk
+import function
+import Identification
+import Non_clause
+
+
+def init(tag,sen):
+        fo=open("OUTPUT.txt","a+")
+        fo.write("--------------------------------------------------------\n")
+        for j in range(0,len(sen)):
+             fo.write(sen[j])
+        fo.write("\n")
+        fo.close() 
+        
+        
+def whom_1(segment_set,num):
+    tok=nltk.word_tokenize(segment_set[num])
+    tag=nltk.pos_tag(tok)        
+    gram=r"""chunk:{<TO>+<DT>?<RB.?>*<JJ.?>*<NN.?|PRP|PRP\$|VBG|DT|POS|CD|VBN>+}"""
+    chunkparser=nltk.RegexpParser(gram)
+    chunked=chunkparser.parse(tag)
+
+    list1=Identification.chunk_search(segment_set[num],chunked)
+    list3=[]
+
+    if len(list1)!=0:
+            for j in range(len(chunked)):
+                  str1="";str2="";str3=""
+                  if j in list1:
+                          for k in range(j):
+                                if k in list1:
+                                        str1+=Non_clause.get_chunk(chunked[k])
+                                else:
+                                        str1+=(chunked[k][0]+" ")
+                                       
+                          for k in range(j+1,len(chunked)):
+                                if k in list1:
+                                        str3+=Non_clause.get_chunk(chunked[k])
+                                else:
+                                        str3+=(chunked[k][0]+" ")                        
+                          
+                          if chunked[j][1][1]=='PRP' or chunked[j][1][1]=='NNP':
+                                  str2=" to whom "
+                          else:
+                                  str2=" to what "
+
+                                          
+                          tok=nltk.word_tokenize(str1)
+                          tag=nltk.pos_tag(tok)
+                          gram=r"""chunk:{<EX>?<DT>?<JJ.?>*<NN.?|PRP|PRP\$|POS|IN|DT|CC|VBG|VBN>+<RB.?>*<VB.?|MD|RP>+}"""
+                          chunkparser=nltk.RegexpParser(gram)
+                          chunked1=chunkparser.parse(tag)
+                          
+                          list2=Identification.chunk_search(str1,chunked1)
+                          if len(list2)!=0:
+                              m=list2[len(list2)-1]
+                              
+                              str4=Non_clause.get_chunk(chunked1[m])
+                              str4=Identification.verbphrase_identify(str4)
+                              str5="";str6=""
+                              
+                              for k in range(m):
+                                   if k in list2:
+                                         str5+=Non_clause.get_chunk(chunked1[k])
+                                   else:
+                                         str5+=(chunked1[k][0]+" ")
+                                        
+                              for k in range(m+1,len(chunked1)):
+                                    if k in list2:
+                                         str6+=Non_clause.get_chunk(chunked1[k])
+                                    else:
+                                         str6+=(chunked1[k][0]+" ")
+
+                              st=str5+str2+str4+str6+str3
+                              for l in range(num+1,len(segment_set)):
+                                  st+=(","+segment_set[l])
+                              list3.append(st)
+
+    return list3                          
+                  
+    
+def whom_2(segment_set,num):
+    tok=nltk.word_tokenize(segment_set[num])
+    tag=nltk.pos_tag(tok)        
+    gram=r"""chunk:{<IN>+<DT>?<RB.?>*<JJ.?>*<NN.?|PRP|PRP\$|POS|VBG|DT|CD|VBN>+}""" 
+    chunkparser=nltk.RegexpParser(gram)
+    chunked=chunkparser.parse(tag)
+
+    list1=Identification.chunk_search(segment_set[num],chunked)
+    list3=[]
+
+    if len(list1)!=0:
+            for j in range(len(chunked)):
+                  str1="";str2="";str3=""
+                  if j in list1:
+                          for k in range(j):
+                                if k in list1:
+                                        str1+=Non_clause.get_chunk(chunked[k])
+                                else:
+                                        str1+=(chunked[k][0]+" ")
+                                       
+                          for k in range(j+1,len(chunked)):
+                                if k in list1:
+                                        str3+=Non_clause.get_chunk(chunked[k])
+                                else:
+                                        str3+=(chunked[k][0]+" ")                        
+                          
+                          if chunked[j][1][1]=='PRP' or chunked[j][1][1]=='NNP':
+                                  str2=" "+chunked[j][0][0]+" whom "
+                          else:
+                                  str2=" "+chunked[j][0][0]+" what "
+
+                                          
+                          tok=nltk.word_tokenize(str1)
+                          tag=nltk.pos_tag(tok)
+                          gram=r"""chunk:{<EX>?<DT>?<JJ.?>*<NN.?|PRP|PRP\$|POS|IN|DT|CC|VBG|VBN>+<RB.?>*<VB.?|MD|RP>+}"""
+                          chunkparser=nltk.RegexpParser(gram)
+                          chunked1=chunkparser.parse(tag)
+                          
+                          list2=Identification.chunk_search(str1,chunked1)
+                          if len(list2)!=0:
+                              m=list2[len(list2)-1]
+                              
+                              str4=Non_clause.get_chunk(chunked1[m])
+                              str4=Identification.verbphrase_identify(str4)
+                              str5="";str6=""
+                              
+                              for k in range(m):
+                                   if k in list2:
+                                         str5+=Non_clause.get_chunk(chunked1[k])
+                                   else:
+                                         str5+=(chunked1[k][0]+" ")
+                                        
+                              for k in range(m+1,len(chunked1)):
+                                    if k in list2:
+                                         str6+=Non_clause.get_chunk(chunked1[k])
+                                    else:
+                                         str6+=(chunked1[k][0]+" ")
+
+                              st=str5+str2+str4+str6+str3
+                              for l in range(num+1,len(segment_set)):
+                                  st+=(","+segment_set[l])
+                              list3.append(st)
+
+    return list3 
+            
+gram=r"""chunk:{<VB.?|MD|RP>+<DT>?<RB.?>*<JJ.?>*<NN.?|PRP|PRP\$|POS|VBG|DT|CD|VBN>+}"""
+    
+ 
+
+
+
+def whose(segment_set,num):
+    tok=nltk.word_tokenize(segment_set[num])
+    tag=nltk.pos_tag(tok)        
+    gram=r"""chunk:{<NN.?>*<PRP\$|POS>+<RB.?>*<JJ.?>*<NN.?|VBG|VBN>+<RB.?>*<VB.?|MD|RP>+}"""
+    chunkparser=nltk.RegexpParser(gram)
+    chunked=chunkparser.parse(tag)
+
+    list1=Identification.chunk_search(segment_set[num],chunked)
+    list3=[]
+    
+    
+    if len(list1)!=0:
+        for i in range(len(chunked)):
+             if i in list1:    
+                    str1="";str3="";str2=""
+                    for k in range(i):
+                            if k in list1:
+                                    str1+=Non_clause.get_chunk(chunked[k])
+                            else:
+                                    str1+=(chunked[k][0]+" ")
+                    str1+=" whose "
+                    
+                    for k in range(i+1,len(chunked)):
+                            if k in list1:
+                                    str3+=Non_clause.get_chunk(chunked[k])
+                            else:
+                                    str3+=(chunked[k][0]+" ")
+                
+                    if chunked[i][1][1]=='POS':
+                            for k in range(2,len(chunked[i])):
+                                    str2+=(chunked[i][k][0]+" ")
+
+                    if chunked[i][0][1]=='PRP$':
+                            for k in range(1,len(chunked[i])):
+                                    str2+=(chunked[i][k][0]+" ")
+                                    
+                    str2=str1+str2+str3;str4=""
+                    
+                    for l in range(0,len(segment_set)):
+                            if l<num:
+                                str4+=(segment_set[l]+",")
+                            if l>num:    
+                                str2+=(","+segment_set[l])
+                    str2=str4+str2            
+                    list3.append(str2)
+
+    return list3               
+
+            
+
+def whom_to_do(segment_set,num):
+    tok=nltk.word_tokenize(segment_set[num])
+    tag=nltk.pos_tag(tok)        
+    gram=r"""chunk:{<TO>+<VB|VBP|RP>+<DT>?<RB.?>*<JJ.?>*<NN.?|PRP|PRP\$|POS|VBG|DT>*}""" 
+    chunkparser=nltk.RegexpParser(gram)
+    chunked=chunkparser.parse(tag)
+
+    list1=Identification.chunk_search(segment_set[num],chunked)
+    list3=[]
+
+    if len(list1)!=0:
+            for j in range(len(chunked)):
+                  str1="";str2="";str3=""
+                  if j in list1:
+                          for k in range(j):
+                                if k in list1:
+                                        str1+=Non_clause.get_chunk(chunked[k])
+                                else:
+                                        str1+=(chunked[k][0]+" ")
+                                       
+                          for k in range(j+1,len(chunked)):
+                                if k in list1:
+                                        str3+=Non_clause.get_chunk(chunked[k])
+                                else:
+                                        str3+=(chunked[k][0]+" ")                        
+                          
+                          ls=Non_clause.get_chunk(chunked[j])
+                          tok=nltk.word_tokenize(ls)
+                          tag=nltk.pos_tag(tok)        
+                          gram=r"""chunk:{<DT>?<RB.?>*<JJ.?>*<NN.?|PRP|PRP\$|POS|VBG|DT>+}""" 
+                          chunkparser=nltk.RegexpParser(gram)
+                          chunked2=chunkparser.parse(tag)     
+                          lis=Identification.chunk_search(ls,chunked2)
+                          if len(lis)!=0:
+                             x=lis[len(lis)-1]
+                             ls1=Non_clause.get_chunk(chunked2[x])
+                             index=ls.find(ls1)
+                             str2=" "+ls[0:index]
+                          else:
+                                  str2=" to do "
+                                          
+                          tok=nltk.word_tokenize(str1)
+                          tag=nltk.pos_tag(tok)
+                          gram=r"""chunk:{<EX>?<DT>?<JJ.?>*<NN.?|PRP|PRP\$|POS|IN|DT|CC|VBG|VBN>+<RB.?>*<VB.?|MD|RP>+}"""
+                          chunkparser=nltk.RegexpParser(gram)
+                          chunked1=chunkparser.parse(tag)
+                          
+                          list2=Identification.chunk_search(str1,chunked1)
+                          if len(list2)!=0:
+                              m=list2[len(list2)-1]
+                              
+                              str4=Non_clause.get_chunk(chunked1[m])
+                              str4=Identification.verbphrase_identify(str4)
+                              str5="";str6=""
+                              
+                              for k in range(m):
+                                   if k in list2:
+                                         str5+=Non_clause.get_chunk(chunked1[k])
+                                   else:
+                                         str5+=(chunked1[k][0]+" ")
+                                        
+                              for k in range(m+1,len(chunked1)):
+                                    if k in list2:
+                                         str6+=Non_clause.get_chunk(chunked1[k])
+                                    else:
+                                         str6+=(chunked1[k][0]+" ")
+
+                              st=str5+" what "+str4+str2+str6+str3
+                              for l in range(num+1,len(segment_set)):
+                                  st+=(","+segment_set[l])
+                              list3.append(st)
+
+    return list3
+           
+    
+
+
+def who(segment_set,num):
+    tok=nltk.word_tokenize(segment_set[num])
+    tag=nltk.pos_tag(tok)
+    gram=r"""chunk:{<EX>?<DT>?<JJ.?>*<NN.?|PRP|PRP\$|POS|IN|DT|CC|VBG|VBN>+<RB.?>*<VB.?|MD|RP>+}"""
+    chunkparser=nltk.RegexpParser(gram)
+    chunked=chunkparser.parse(tag)
+
+    list1=Identification.chunk_search(segment_set[num],chunked)
+    list3=[]
+    
+    if len(list1)!=0:
+            for j in range(len(list1)):
+                    m=list1[j];str1=""
+                    for k in range(m+1,len(chunked)):
+                            if k in list1:
+                                    str1+=Non_clause.get_chunk(chunked[k])
+                            else:
+                                    str1+=(chunked[k][0]+" ")
+                                    
+                                    
+                    str2=Non_clause.get_chunk(chunked[m])
+                    tok=nltk.word_tokenize(str2)
+                    tag=nltk.pos_tag(tok)
+                    gram=r"""chunk:{<RB.?>*<VB.?|MD|RP>+}"""
+                    chunkparser=nltk.RegexpParser(gram)
+                    chunked1=chunkparser.parse(tag)
+
+                    list2=Identification.chunk_search(str2,chunked1)
+                    if len(list2)!=0:
+                        str2=Non_clause.get_chunk(chunked1[list2[0]])
+                        str2=" what "+str2                            
+                        for k in range(list2[0]+1,len(chunked1)):
+                                if k in list2:
+                                      str2+=Non_clause.get_chunk(chunked[k])
+                                else:
+                                      str2+=(chunked[k][0]+" ")                                   
+                        str2+=(" "+str1)
+                        for l in range(num+1,len(segment_set)):
+                                str2+=(","+segment_set[l])
+                        list3.append(str2)
+
+    return list3                    
+                                        
+
+
+      
+
+   

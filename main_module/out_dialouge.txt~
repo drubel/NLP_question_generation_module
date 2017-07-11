@@ -1,0 +1,1994 @@
+
+
+//Booking or scheduling a taxi in a hotel conversation
+
+-----------------------------------------------------
+ Hello, would you organize me a taxi for tomorrow afternoon ?
+Sp.Rule6- Q. Why  would you organize me a taxi for tomorrow afternoon?
+Sp.Rule7- Q. How  would you organize me a taxi for tomorrow afternoon?
+Sp.Rule1- Q.Is it true that the me a taxi is for tomorrow afternoon ? 
+Sp.Rule1- Q.Is it true that the me a taxi is only for tomorrow afternoon ? 
+
+------------------------------------------------
+ That will be no problem.
+Rule3- Q.Why will that be no problem ? 
+Rule3- Q.How will that be no problem ? 
+Rule3- Q.Will that be no problem ? 
+Rule4- Q.How will that be no problem ? 
+Rule4- Q.Will only that be no problem ? 
+Rule4- Q.Why will only that be no problem ? 
+
+------------------------------------------------
+ I have to be at a business conference at the Regents hotel.
+Rule2- Q.Why do you have to be at a business conference ? 
+Rule2- Q.How do you have to be at a business conference ? 
+Rule2- Q.Do you have to be only at a business conference ? 
+Rule2- Q.Why do you have to be at a business conference at the Regents hotel ? 
+Rule2- Q.How do you have to be at a business conference at the Regents hotel ? 
+Rule2- Q.Do you have to be at a business conference only at the Regents hotel ? 
+Rule4- Q.How do you have to be at a business conference at the Regents hotel ? 
+Rule4- Q.Do only you have to be at a business conference at the Regents hotel ? 
+Rule4- Q.Why do only you have to be at a business conference at the Regents hotel ? 
+Rule5- Q.Why do you have to be ? 
+Rule5- Q.Do you have to be really ? 
+Sp.Rule4- Q.How do you be ? 
+
+------------------------------------------------
+ I am hoping that it is not very far away from here.
+Rule2- Q.Why are you hoping that it ? 
+Rule2- Q.How are you hoping that it ? 
+Rule2- Q.Am you hoping only that it ? 
+Rule3- Q.Why are you hoping hoping ? 
+Rule3- Q.How are you hoping hoping ? 
+Rule3- Q.Am you hoping hoping ? 
+Rule4- Q.How are you hoping that it is not very far away from here ? 
+Rule4- Q.Am only you hoping that it is not very far away from here ? 
+Rule4- Q.Why are only you hoping that it is not very far away from here ? 
+Rule4- Q.How is that it not very far away from here ? 
+Rule4- Q.Is only that it not very far away from here ? 
+Rule4- Q.Why is only that it not very far away from here ? 
+Sp.Rule5- Q.Am you hoping really ? 
+
+------------------------------------------------
+ It is only a twenty minute drive from this hotel.
+Rule2- Q.Why is it only a twenty minute drive from this hotel ? 
+Rule2- Q.How is it only a twenty minute drive from this hotel ? 
+Rule2- Q.Is it only a twenty minute drive only from this hotel ? 
+Rule3- Q.Why is it only a ? 
+Rule3- Q.How is it only a ? 
+Rule3- Q.Is it only a ? 
+Rule4- Q.How is it only a twenty minute drive from this hotel ? 
+Rule4- Q.Is only it only a twenty minute drive from this hotel ? 
+Rule4- Q.Why is only it only a twenty minute drive from this hotel ? 
+Sp.Rule2- Q.Is the minute drive really twenty ? 
+
+------------------------------------------------
+ Book the taxi for one in the afternoon.
+
+------------------------------------------------
+ I will make the booking right away.
+Rule3- Q.Why will you make the booking ? 
+Rule3- Q.How will you make the booking ? 
+Rule3- Q.Will you make the booking ? 
+Rule4- Q.How will you make the booking right away ? 
+Rule4- Q.Will only you make the booking right away ? 
+Rule4- Q.Why will only you make the booking right away ? 
+
+------------------------------------------------
+ Thank you for your help.
+Sp.Rule3- Q.Is the help really mine ? 
+
+-----------------------------------------------------
+ Would you like me to order a taxi for when you return ?
+Sp.Rule6- Q. Why  Would you like me to order a taxi for when you return?
+Sp.Rule7- Q. How  Would you like me to order a taxi for when you return?
+
+------------------------------------------------
+ That's a great idea.
+Sp.Rule2- Q.Is the idea really great ? 
+
+-----------------------------------------------------
+ Could you make sure the taxi is waiting for me outside at six ?
+Sp.Rule6- Q. Why  Could you make sure the taxi is waiting for me outside at six?
+Sp.Rule7- Q. How  Could you make sure the taxi is waiting for me outside at six?
+Sp.Rule5- Q.Do i make really sure ? 
+Sp.Rule5- Q.Is the taxi waiting really ? 
+Sp.Rule1- Q.Is it true that the waiting is for me ? 
+Sp.Rule1- Q.Is it true that the waiting is only for me ? 
+
+------------------------------------------------
+ Do not worry.
+Rule4- Q.How Do not worry ? 
+Rule4- Q.Do only not worry ? 
+Rule4- Q.Why Do only not worry ? 
+
+------------------------------------------------
+ we will take care of that.
+Rule2- Q.Why will you take care of that ? 
+Rule2- Q.How will you take care of that ? 
+Rule2- Q.Will you take care only of that ? 
+Rule3- Q.Why will you take care ? 
+Rule3- Q.How will you take care ? 
+Rule3- Q.Will you take care ? 
+Rule4- Q.How will you take care of that ? 
+Rule4- Q.Will only you take care of that ? 
+Rule4- Q.Why will only you take care of that ? 
+
+
+//Conversation between 2 people who have not met for a long time
+
+------------------------------------------------
+ Deborah! It is great to see you again.
+Rule3- Q.Deborah ! why is it great to see i ? 
+Rule3- Q.Deborah ! how is it great to see i ? 
+Rule3- Q.Deborah ! is it great to see i ? 
+Rule4- Q.How is it great to see i again ? 
+Rule4- Q.Is only it great to see i again ? 
+Rule4- Q.Why is only it great to see i again ? 
+Rule5- Q.Deborah ! why is it great to see i ? 
+Rule5- Q.Deborah ! is it great to see i really ? 
+Sp.Rule5- Q.Is it really great ? 
+Sp.Rule4- Q.How do it see i ?
+
+------------------------------------------------
+ It is great to see you.
+Rule3- Q.Why is it great to see i ? 
+Rule3- Q.How is it great to see i ? 
+Rule3- Q.Is it great to see i ? 
+Rule4- Q.How is it great to see i ? 
+Rule4- Q.Is only it great to see i ? 
+Rule4- Q.Why is only it great to see i ? 
+Rule5- Q.Why is it great to see i ? 
+Rule5- Q.Is it great to see i really ? 
+Sp.Rule5- Q.Is it really great ? 
+Sp.Rule4- Q.How do it see i ? 
+
+-----------------------------------------------------
+ What are you doing in Manchester ?
+Sp.Rule6- Q. Why are you doing in Manchester?
+Sp.Rule7- Q. How are you doing in Manchester?
+
+------------------------------------------------
+ I just got a new job in Manchester in finance.
+Rule2- Q.Why did you just got a new job in Manchester ? 
+Rule2- Q.How did you just got a new job in Manchester ? 
+Rule2- Q.Did you just got a new job only in Manchester ? 
+Rule2- Q.Why did you just got a new job in Manchester in finance ? 
+Rule2- Q.How did you just got a new job in Manchester in finance ? 
+Rule2- Q.Did you just got a new job in Manchester only in finance ? 
+Rule3- Q.Why did you just got a new job ? 
+Rule3- Q.How did you just got a new job ? 
+Rule3- Q.Did you just got a new job ? 
+Rule4- Q.How did you just got a new job in Manchester in finance ? 
+Rule4- Q.Did only you just got a new job in Manchester in finance ? 
+Rule4- Q.Why did only you just got a new job in Manchester in finance ? 
+Sp.Rule2- Q.Is the job really new ? 
+
+------------------------------------------------
+ so I am shopping for some new clothes.
+Rule2- Q.So why are you shopping for some new clothes ? 
+Rule2- Q.So how are you shopping for some new clothes ? 
+Rule2- Q.So are you shopping only for some new clothes ? 
+Rule3- Q.So why are you shopping shopping ? 
+Rule3- Q.So how are you shopping shopping ? 
+Rule3- Q.So are you shopping shopping ? 
+Rule4- Q.How are you shopping for some new clothes ? 
+Rule4- Q.Am only you shopping for some new clothes ? 
+Rule4- Q.Why are only you shopping for some new clothes ? 
+Sp.Rule5- Q.Am you shopping really ? 
+Sp.Rule2- Q.Is the clothes really new ? 
+
+------------------------------------------------
+ I have got the same skirt as you!
+.
+Rule2- Q.Why have you got the same skirt as me ? 
+Rule2- Q.How have you got the same skirt as me ? 
+Rule2- Q.Have you got the same skirt only as me ? 
+Rule3- Q.Why have you got same skirt ? 
+Rule3- Q.How have you got same skirt ? 
+Rule3- Q.Have you got same skirt ? 
+Rule4- Q.How have you got the same skirt as me ! ? 
+Rule4- Q.Have only you got the same skirt as me ! ? 
+Rule4- Q.Why have only you got the same skirt as me ! ? 
+Sp.Rule5- Q.Have you got really ? 
+Sp.Rule2- Q.Is the skirt really same ? 
+
+------------------------------------------------
+ You have always had great taste in clothes! Well this is a small world.
+Rule2- Q.Why do i have always had great taste in clothes ? 
+Rule2- Q.How do i have always had great taste in clothes ? 
+Rule2- Q.Do i have always had great taste only in clothes ? 
+Rule3- Q.Why do i have always had ? 
+Rule3- Q.How do i have always had ? 
+Rule3- Q.Do i have always had ? 
+Rule3- Q.You have always had great taste in clothes ! Well why is this a small world ? 
+Rule3- Q.You have always had great taste in clothes ! Well how is this a small world ? 
+Rule3- Q.You have always had great taste in clothes ! Well is this a small world ? 
+Rule4- Q.How do i have always had great taste in clothes ! well this is a small world ? 
+Rule4- Q.Do only i have always had great taste in clothes ! well this is a small world ? 
+Rule4- Q.Why do only i have always had great taste in clothes ! well this is a small world ? 
+Rule4- Q.How is this a small world ? 
+Rule4- Q.Is only this a small world ? 
+Rule4- Q.Why is only this a small world ? 
+Sp.Rule5- Q.Do i have really always had great ? 
+Sp.Rule2- Q.Is the world really small ? 
+
+------------------------------------------------
+ We must keep in touch.
+Rule2- Q.Why must you keep in touch ? 
+Rule2- Q.How must you keep in touch ? 
+Rule2- Q.Must you keep only in touch ? 
+Rule4- Q.How must you keep in touch ? 
+Rule4- Q.Must only you keep in touch ? 
+Rule4- Q.Why must only you keep in touch ? 
+
+-----------------------------------------------------
+ You still have my mobile number ?
+Sp.Rule6- Q. Why  You still have my mobile number?
+Sp.Rule7- Q. How  You still have my mobile number?
+
+------------------------------------------------
+ I lost my phone.
+Rule3- Q.Why did you lost lost your phone ? 
+Rule3- Q.How did you lost lost your phone ? 
+Rule3- Q.Did you lost lost your phone ? 
+Rule4- Q.How did you lost your phone ? 
+Rule4- Q.Did only you lost your phone ? 
+Rule4- Q.Why did only you lost your phone ? 
+Sp.Rule3- Q.Is the phone really yours ? 
+
+------------------------------------------------
+ I will save your new number.
+Rule3- Q.Why will you save my ? 
+Rule3- Q.How will you save my ? 
+Rule3- Q.Will you save my ? 
+Rule4- Q.How will you save my new number ? 
+Rule4- Q.Will only you save my new number ? 
+Rule4- Q.Why will only you save my new number ? 
+Sp.Rule2- Q.Is the number really new ? 
+Sp.Rule3- Q.Is the new number really mine ? 
+
+------------------------------------------------
+ I have got to go back to work.
+Rule3- Q.Why have you got got ? 
+Rule3- Q.How have you got got ? 
+Rule3- Q.Have you got got ? 
+Rule4- Q.How have you got to go back to work ? 
+Rule4- Q.Have only you got to go back to work ? 
+Rule4- Q.Why have only you got to go back to work ? 
+Rule5- Q.Why have you got to go back ? 
+Rule5- Q.Have you got to go back really ? 
+Rule5- Q.Why have you got to go back to work ? 
+Rule5- Q.Have you got to go back to work really ? 
+Sp.Rule5- Q.Have you got really ? 
+Sp.Rule4- Q.How do got go back ? 
+Sp.Rule4- Q.How do got work ? 
+
+------------------------------------------------
+ give us a ring so we can arrange dinner sometime.
+Rule3- Q.Give why us a ring so you ring dinner ? 
+Rule3- Q.Give how us a ring so you ring dinner ? 
+Rule3- Q.Give us a ring so you ring dinner ? 
+Rule4- Q.How us a ring so you ring dinner sometime ? 
+Rule4- Q.Us only a ring so you ring dinner sometime ? 
+Rule4- Q.Why us only a ring so you ring dinner sometime ? 
+
+
+
+//Conversation about the weather?
+
+------------------------------------------------
+ Good morning!
+.
+Sp.Rule2- Q.Is the morning really Good ? 
+
+-----------------------------------------------------
+ How are you today ?
+Sp.Rule6- Q. Why are you today?
+Sp.Rule7- Q. How are you today?
+
+------------------------------------------------
+ I am good.
+Rule4- Q.How are you good ? 
+Rule4- Q.Am only you good ? 
+Rule4- Q.Why are only you good ? 
+Sp.Rule5- Q.Am you really good ? 
+
+-----------------------------------------------------
+ It's awful, isn't it ?
+Sp.Rule6- Q. Why  It's awful, isn't it?
+Sp.Rule7- Q. How  It's awful, isn't it?
+Sp.Rule5- Q.It 's really awful ? 
+
+------------------------------------------------
+ The weather forecast said it will brighten up after lunch.
+Rule2- Q.The weather forecast said why will it brighten up after lunch ? 
+Rule2- Q.The weather forecast said how will it brighten up after lunch ? 
+Rule2- Q.The weather forecast said will it brighten up only after lunch ? 
+Rule3- Q.Why did the weather forecast said it ? 
+Rule3- Q.How did the weather forecast said it ? 
+Rule3- Q.Did the weather forecast said it ? 
+Rule4- Q.How did the weather forecast said it will brighten up after lunch ? 
+Rule4- Q.Did only the weather forecast said it will brighten up after lunch ? 
+Rule4- Q.Why did only the weather forecast said it will brighten up after lunch ? 
+Rule4- Q.How will it brighten up after lunch ? 
+Rule4- Q.Will only it brighten up after lunch ? 
+Rule4- Q.Why will only it brighten up after lunch ? 
+
+------------------------------------------------
+ They always say that! Still.
+Rule4- Q.How do they always say that ! still ? 
+Rule4- Q.Do only they always say that ! still ? 
+Rule4- Q.Why do only they always say that ! still ? 
+
+------------------------------------------------
+ I can't complain as it's a lot warmer than back at home.
+Rule2- Q.Why you ca n't complain as it ? 
+Rule2- Q.How you ca n't complain as it ? 
+Rule2- Q.I ca n't complain only as it ? 
+Rule2- Q.I ca n't complain why as it 's a lot warmer than back at home ? 
+Rule2- Q.I ca n't complain how as it 's a lot warmer than back at home ? 
+Rule2- Q.I ca n't complain as it 's a lot warmer than back only at home ? 
+Rule3- Q.Why you ca n't complain as it ' P 's a lot ? 
+Rule3- Q.How you ca n't complain as it ' P 's a lot ? 
+Rule3- Q.I ca n't complain as it ' P 's a lot ? 
+Rule4- Q.How you ca n't complain as it 's a lot warmer than back at home ? 
+Rule4- Q.I only ca n't complain as it 's a lot warmer than back at home ? 
+Rule4- Q.Why you only ca n't complain as it 's a lot warmer than back at home ? 
+Rule4- Q.How as it 's a lot warmer than back at home ? 
+Rule4- Q.As only it 's a lot warmer than back at home ? 
+Rule4- Q.Why as only it 's a lot warmer than back at home ? 
+
+-----------------------------------------------------
+ Really ?
+Sp.Rule6- Q. Why  Really?
+Sp.Rule7- Q. How  Really?
+
+-----------------------------------------------------
+ Where are you from ?
+Sp.Rule6- Q. Why  Where are you from?
+Sp.Rule7- Q. How  Where are you from?
+
+------------------------------------------------
+ Freezing cold.
+Sp.Rule2- Q.Is the cold really freezing ? 
+
+------------------------------------------------
+ and snowing.
+Rule4- Q.How and snowing snowing ? 
+Rule4- Q.And only snowing snowing ? 
+Rule4- Q.Why and only snowing snowing ? 
+
+------------------------------------------------
+ Right! So this must be like summer for you!
+.
+Rule2- Q.Right ! so why must this be like summer ? 
+Rule2- Q.Right ! So how must this be like summer ? 
+Rule2- Q.Right ! so must this be only like summer ? 
+Rule2- Q.Right ! so why must this be like summer for me ? 
+Rule2- Q.Right ! So how must this be like summer for me ? 
+Rule2- Q.Right ! so must this be like summer only for me ? 
+Rule4- Q.How must this be like summer for me ! ? 
+Rule4- Q.Must only this be like summer for me ! ? 
+Rule4- Q.Why must only this be like summer for me ! ? 
+
+------------------------------------------------
+ Right! But I do like the snow sometimes.
+Rule2- Q.Right ! why do but you do like the snow ? 
+Rule2- Q.Right ! how do but you do like the snow ? 
+Rule2- Q.Right ! do but you do only like the snow ? 
+Rule4- Q.How do but you do like the snow sometimes ? 
+Rule4- Q.Do only but you do like the snow sometimes ? 
+Rule4- Q.Why do only but you do like the snow sometimes ? 
+
+
+//teacher and student 
+
+-----------------------------------------------------
+ Where is Kannan ?
+Sp.Rule6- Q. Why is Kannan?
+Sp.Rule7- Q. How is Kannan?
+
+------------------------------------------------
+ He is absent today.
+Rule3- Q.Why is he absent today ? 
+Rule3- Q.How is he absent today ? 
+Rule3- Q.Is he absent today ? 
+Rule4- Q.How is he absent today ? 
+Rule4- Q.Is only he absent today ? 
+Rule4- Q.Why is only he absent today ? 
+Sp.Rule5- Q.Is he really absent ? 
+Sp.Rule2- Q.Is the today really a N ? 
+
+-----------------------------------------------------
+ Why is he absent ?
+Sp.Rule6- Q. Why is he absent?
+Sp.Rule7- Q. How is he absent?
+
+------------------------------------------------
+ He has gone to Kolkata to attend his sister's marriage.
+Rule1- Q.Why has he gone to Kolkata ? 
+Rule1- Q.How has he gone to Kolkata ? 
+Rule1- Q.Has he gone only to Kolkata ? 
+Rule3- Q.Why has he gone gone ? 
+Rule3- Q.How has he gone gone ? 
+Rule3- Q.Has he gone gone ? 
+Rule3- Q.Why has he gone to Kolkata to attend his sister 's marriage ? 
+Rule3- Q.How has he gone to Kolkata to attend his sister 's marriage ? 
+Rule3- Q.Has he gone to Kolkata to attend his sister 's marriage ? 
+Rule4- Q.How has he gone to Kolkata to attend his sister 's marriage ? 
+Rule4- Q.Has only he gone to Kolkata to attend his sister 's marriage ? 
+Rule4- Q.Why has only he gone to Kolkata to attend his sister 's marriage ? 
+Rule5- Q.Why has he gone to Kolkata to attend his sister 's marriage ? 
+Rule5- Q.Has he gone to Kolkata to attend his sister 's marriage really ? 
+Sp.Rule5- Q.Has he gone really ? 
+Sp.Rule3- Q.Is the sister really of him ? 
+Sp.Rule3- Q.Is the marriage really of him ? 
+
+-----------------------------------------------------
+ Has he sent the leave letter through you ?
+Sp.Rule6- Q. Why  Has he sent the leave letter through you?
+Sp.Rule7- Q. How  Has he sent the leave letter through you?
+
+------------------------------------------------
+ He must be present with leave letter.
+Rule2- Q.Why must he be present with leave letter ? 
+Rule2- Q.How must he be present with leave letter ? 
+Rule2- Q.Must he be present only with leave letter ? 
+Rule2- Q.Must he be present without leave letter ever ? 
+Rule4- Q.How must he be present with leave letter ? 
+Rule4- Q.Must only he be present with leave letter ? 
+Rule4- Q.Why must only he be present with leave letter ? 
+Sp.Rule5- Q.Must he be really present ? 
+Sp.Rule2- Q.Is the letter really leave ? 
+
+-----------------------------------------------------
+ Have you answered the paragraph questions ?
+Sp.Rule6- Q. Why  Have you answered the paragraph questions?
+Sp.Rule7- Q. How  Have you answered the paragraph questions?
+
+------------------------------------------------
+ I have.
+Rule4- Q.How do you have ? 
+Rule4- Q.Do only you have ? 
+Rule4- Q.Why do only you have ? 
+
+------------------------------------------------
+ look at that picture on the wall.
+
+-----------------------------------------------------
+ Who is he ?
+Sp.Rule6- Q. Why is he?
+Sp.Rule7- Q. How is he?
+
+------------------------------------------------
+ He is a Bengali Poet named Tagore.
+Rule3- Q.Why is he a Bengali Poet ? 
+Rule3- Q.How is he a Bengali Poet ? 
+Rule3- Q.Is he a Bengali Poet ? 
+Rule3- Q.He is why did a Bengali Poet named named Tagore ? 
+Rule3- Q.He is how did a Bengali Poet named named Tagore ? 
+Rule3- Q.He is did a Bengali Poet named named Tagore ? 
+Rule4- Q.How is he a Bengali Poet named Tagore ? 
+Rule4- Q.Is only he a Bengali Poet named Tagore ? 
+Rule4- Q.Why is only he a Bengali Poet named Tagore ? 
+Rule4- Q.How did a Bengali Poet named Tagore ? 
+Rule4- Q.Did only a Bengali Poet named Tagore ? 
+Rule4- Q.Why did only a Bengali Poet named Tagore ? 
+
+------------------------------------------------
+ I know about him very well.
+Rule2- Q.Why do you know about him ? 
+Rule2- Q.How do you know about him ? 
+Rule2- Q.Do you know only about him ? 
+Rule4- Q.How do you know about him very well ? 
+Rule4- Q.Do only you know about him very well ? 
+Rule4- Q.Why do only you know about him very well ? 
+
+------------------------------------------------
+ He got the Nobel Prize for literature.
+Rule2- Q.Why did he got the Nobel Prize for literature ? 
+Rule2- Q.How did he got the Nobel Prize for literature ? 
+Rule2- Q.Did he got the Nobel Prize only for literature ? 
+Rule3- Q.Why did he got the Nobel Prize ? 
+Rule3- Q.How did he got the Nobel Prize ? 
+Rule3- Q.Did he got the Nobel Prize ? 
+Rule4- Q.How did he got the Nobel Prize for literature ? 
+Rule4- Q.Did only he got the Nobel Prize for literature ? 
+Rule4- Q.Why did only he got the Nobel Prize for literature ? 
+
+
+//Drill Master and The Captain 
+
+-----------------------------------------------------
+ Who is our opponent ?
+Sp.Rule6- Q. Why is our opponent?
+Sp.Rule7- Q. How is our opponent?
+
+------------------------------------------------
+ High School team is our opponent.
+Rule3- Q.Why is high School team your opponent ? 
+Rule3- Q.How is high School team your opponent ? 
+Rule3- Q.Is high School team your opponent ? 
+Rule4- Q.How is high School team your opponent ? 
+Rule4- Q.Is only high School team your opponent ? 
+Rule4- Q.Why is only high School team your opponent ? 
+Sp.Rule2- Q.Is the School team really High ? 
+Sp.Rule3- Q.Is the opponent really yours ? 
+
+-----------------------------------------------------
+ Have you taken all the bats and balls ?
+Sp.Rule6- Q. Why  Have you taken all the bats and balls?
+Sp.Rule7- Q. How  Have you taken all the bats and balls?
+
+------------------------------------------------
+ We have four bats and three balls.
+Rule3- Q.Why do you have four bats ? 
+Rule3- Q.How do you have four bats ? 
+Rule3- Q.Do you have four bats ? 
+Rule4- Q.How do you have four bats and three balls ? 
+Rule4- Q.Do only you have four bats and three balls ? 
+Rule4- Q.Why do only you have four bats and three balls ? 
+
+-----------------------------------------------------
+ Do you know the ground where the match is to be played ?
+Sp.Rule6- Q. Why  Do you know the ground where the match is to be played?
+Sp.Rule7- Q. How  Do you know the ground where the match is to be played?
+
+------------------------------------------------
+ It is to be played in Railway ground.
+Rule2- Q.Why is it to be played in Railway ground ? 
+Rule2- Q.How is it to be played in Railway ground ? 
+Rule2- Q.Is it to be played only in Railway ground ? 
+Rule3- Q.Why is it to be played played ? 
+Rule3- Q.How is it to be played played ? 
+Rule3- Q.Is it to be played played ? 
+Rule4- Q.How is it to be played in Railway ground ? 
+Rule4- Q.Is only it to be played in Railway ground ? 
+Rule4- Q.Why is only it to be played in Railway ground ? 
+Rule5- Q.Why is it to be ? 
+Rule5- Q.Is it to be really ? 
+Sp.Rule4- Q.How do it be ? 
+
+------------------------------------------------
+ Go by bus and make sure you have net practice.
+Rule3- Q.Go why do by bus and make sure i ? 
+Rule3- Q.Go how do by bus and make sure i ? 
+Rule3- Q.Go do by bus and make sure i ? 
+Rule3- Q.Go by bus and make why do i have net practice ? 
+Rule3- Q.Go by bus and make how do i have net practice ? 
+Rule3- Q.Go by bus and make do i have net practice ? 
+Rule4- Q.How do by bus and make sure i have net practice ? 
+Rule4- Q.Do only by bus and make sure i have net practice ? 
+Rule4- Q.Why do only by bus and make sure i have net practice ? 
+Rule4- Q.How do i have net practice ? 
+Rule4- Q.Do only i have net practice ? 
+Rule4- Q.Why do only i have net practice ? 
+Sp.Rule5- Q.Do i have really net ? 
+Sp.Rule2- Q.Is the practice really net ? 
+
+-----------------------------------------------------
+ Will you be present during our net practice ?
+Sp.Rule6- Q. Why  Will you be present during our net practice?
+Sp.Rule7- Q. How  Will you be present during our net practice?
+Sp.Rule5- Q.Do i be really present ? 
+
+------------------------------------------------
+ I will come.
+Rule4- Q.How will you come ? 
+Rule4- Q.Will only you come ? 
+Rule4- Q.Why will only you come ? 
+
+
+//election meeting
+
+-----------------------------------------------------
+ Who is addressing the meeting ?
+Sp.Rule6- Q. Why  Who is addressing the meeting?
+Sp.Rule7- Q. How  Who is addressing the meeting?
+
+------------------------------------------------
+ He is the candidate of the Congress party.
+Rule2- Q.Why is he the candidate of the Congress party ? 
+Rule2- Q.How is he the candidate of the Congress party ? 
+Rule2- Q.Is he the candidate only of the Congress party ? 
+Rule3- Q.Why is he the candidate ? 
+Rule3- Q.How is he the candidate ? 
+Rule3- Q.Is he the candidate ? 
+Rule4- Q.How is he the candidate of the Congress party ? 
+Rule4- Q.Is only he the candidate of the Congress party ? 
+Rule4- Q.Why is only he the candidate of the Congress party ? 
+
+-----------------------------------------------------
+ When is the election to be held ?
+Sp.Rule6- Q. Why is the election to be held?
+Sp.Rule7- Q. How is the election to be held?
+
+-----------------------------------------------------
+ How many candidates are contesting ?
+Sp.Rule6- Q. Why candidates are contesting?
+Sp.Rule7- Q. How candidates are contesting?
+Sp.Rule5- Q.Are many candidates contesting really ? 
+
+------------------------------------------------
+ There are seven candidates in the field.
+
+------------------------------------------------
+ He is the first man speaking.
+Rule3- Q.Why is he the first man speaking ? 
+Rule3- Q.How is he the first man speaking ? 
+Rule3- Q.Is he the first man speaking ? 
+Rule4- Q.How is he the first man speaking ? 
+Rule4- Q.Is only he the first man speaking ? 
+Rule4- Q.Why is only he the first man speaking ? 
+Sp.Rule2- Q.Is the man speaking really f R ? 
+
+-----------------------------------------------------
+ When will the meeting come to an end ?
+Sp.Rule6- Q. Why will the meeting come to an end?
+Sp.Rule7- Q. How will the meeting come to an end?
+
+------------------------------------------------
+ These dasy election meetings are a nuisance.
+Rule3- Q.Why are these dasy election meetings a nuisance ? 
+Rule3- Q.How are these dasy election meetings a nuisance ? 
+Rule3- Q.Are these dasy election meetings a nuisance ? 
+Rule4- Q.How are these dasy election meetings a nuisance ? 
+Rule4- Q.Are only these dasy election meetings a nuisance ? 
+Rule4- Q.Why are only these dasy election meetings a nuisance ? 
+Sp.Rule2- Q.Is the election meetings really dasy ? 
+
+
+//reception counter
+
+-----------------------------------------------------
+ How may I help you ?
+Sp.Rule6- Q. Why may I help you?
+Sp.Rule7- Q. How may I help you?
+
+------------------------------------------------
+ I need a room.
+Rule3- Q.Why you need a room ? 
+Rule3- Q.How you need a room ? 
+Rule3- Q.I need a room ? 
+Rule4- Q.How you need a room ? 
+Rule4- Q.I only need a room ? 
+Rule4- Q.Why you only need a room ? 
+
+-----------------------------------------------------
+ Do you require a single or double room or a suite ?
+Sp.Rule6- Q. Why  Do you require a single or double room or a suite?
+Sp.Rule7- Q. How  Do you require a single or double room or a suite?
+
+
+------------------------------------------------
+ A single room will do.
+Rule4- Q.How will a single room do ? 
+Rule4- Q.Will only a single room do ? 
+Rule4- Q.Why will only a single room do ? 
+Sp.Rule2- Q.Is the room really single ? 
+
+------------------------------------------------
+ Please fill your name in this register.
+Rule2- Q.Why Please fill my name in this register ? 
+Rule2- Q.How Please fill my name in this register ? 
+Rule2- Q.Please fill my name only in this register ? 
+Rule3- Q.Why Please fill my name ? 
+Rule3- Q.How Please fill my name ? 
+Rule3- Q.Please fill my name ? 
+Rule4- Q.How Please fill my name in this register ? 
+Rule4- Q.Please only fill my name in this register ? 
+Rule4- Q.Why Please only fill my name in this register ? 
+Sp.Rule3- Q.Is the name really mine ? 
+
+-----------------------------------------------------
+ May I know the tariff please ?
+Sp.Rule6- Q. Why  May I know the tariff please?
+Sp.Rule7- Q. How  May I know the tariff please?
+
+------------------------------------------------
+ It's nine hundred rupees a day.
+Sp.Rule2- Q.Is the rupees a day really hundred ? 
+
+-----------------------------------------------------
+ Does it include breakfast ?
+Sp.Rule6- Q. Why  Does it include breakfast?
+Sp.Rule7- Q. How  Does it include breakfast?
+
+------------------------------------------------
+ It's just for the accommodation.
+Rule2- Q.Why it 's just for the accommodation ? 
+Rule2- Q.How it 's just for the accommodation ? 
+Rule2- Q.It 's just only for the accommodation ? 
+
+-----------------------------------------------------
+ Is the room air conditioned ?
+Sp.Rule6- Q. Why  Is the room air conditioned?
+Sp.Rule7- Q. How  Is the room air conditioned?
+
+------------------------------------------------
+ All our rooms are centrally air-conditioned.
+Rule4- Q.How are all your rooms centrally air-conditioned ? 
+Rule4- Q.Are only all your rooms centrally air-conditioned ? 
+Rule4- Q.Why are only all your rooms centrally air-conditioned ? 
+Sp.Rule5- Q.Are all your rooms really centrally air-conditioned ? 
+Sp.Rule3- Q.Is the rooms really of All ? 
+
+-----------------------------------------------------
+ Do you have a restaurant ?
+Sp.Rule6- Q. Why  Do you have a restaurant?
+Sp.Rule7- Q. How  Do you have a restaurant?
+
+------------------------------------------------
+ We have three.
+Rule3- Q.Why do you have three ? 
+Rule3- Q.How do you have three ? 
+Rule3- Q.Do you have three ? 
+Rule4- Q.How do you have three ? 
+Rule4- Q.Do only you have three ? 
+Rule4- Q.Why do only you have three ? 
+
+------------------------------------------------
+ We offer Indian.
+Rule4- Q.How you offer indian ? 
+Rule4- Q.We only offer indian ? 
+Rule4- Q.Why you only offer indian ? 
+Sp.Rule5- Q.We offer really indian ? 
+
+------------------------------------------------
+ Western and Chinese cuisine catered by the different restaurants.
+Rule2- Q.Western and why did chinese cuisine catered by the different restaurants ? 
+Rule2- Q.Western and how did chinese cuisine catered by the different restaurants ? 
+Rule2- Q.Western and did Chinese cuisine catered only by the different restaurants ? 
+Rule4- Q.How did chinese cuisine catered by the different restaurants ? 
+Rule4- Q.Did only chinese cuisine catered by the different restaurants ? 
+Rule4- Q.Why did only chinese cuisine catered by the different restaurants ? 
+Sp.Rule2- Q.Is the cuisine catered really chinese ? 
+Sp.Rule2- Q.Is the restaurants really different ?
+
+------------------------------------------------
+ That's good news.
+Sp.Rule2- Q.Is the news really good ? 
+
+------------------------------------------------
+ I can choose different cuisine for different meals.
+Rule2- Q.Why can you choose different cuisine for different meals ? 
+Rule2- Q.How can you choose different cuisine for different meals ? 
+Rule2- Q.Can you choose different cuisine only for different meals ? 
+Rule3- Q.Why can you choose different cuisine ? 
+Rule3- Q.How can you choose different cuisine ? 
+Rule3- Q.Can you choose different cuisine ? 
+Rule4- Q.How can you choose different cuisine for different meals ? 
+Rule4- Q.Can only you choose different cuisine for different meals ? 
+Rule4- Q.Why can only you choose different cuisine for different meals ? 
+Sp.Rule5- Q.Can you choose really different ? 
+Sp.Rule2- Q.Is the cuisine really different ? 
+Sp.Rule2- Q.Is the meals really different ? 
+
+
+
+//friends over telephone
+
+-----------------------------------------------------
+ Hello Ganesh! How are you ?
+Sp.Rule6- Q. Why  Hello Ganesh! How are you?
+Sp.Rule7- Q. How  Hello Ganesh! How are you?
+
+------------------------------------------------
+ Hello Anusiya! I am fine.
+Rule4- Q.How are you fine ? 
+Rule4- Q.Am only you fine ? 
+Rule4- Q.Why are only you fine ? 
+Sp.Rule5- Q.Am you really fine ? 
+
+-----------------------------------------------------
+ Have you done the homework in Maths ?
+Sp.Rule6- Q. Why  Have you done the homework in Maths?
+Sp.Rule7- Q. How  Have you done the homework in Maths?
+Sp.Rule1- Q.Is it true that the i done the homework is in Maths ? 
+
+------------------------------------------------
+ I am ill.
+Rule4- Q.How are you ill ? 
+Rule4- Q.Are only you ill ? 
+Rule4- Q.Why are only you ill ? 
+Sp.Rule5- Q.Are you really ill ? 
+
+-----------------------------------------------------
+ Will you come to school today ?
+Sp.Rule6- Q. Why  Will you come to school today?
+Sp.Rule7- Q. How  Will you come to school today?
+
+------------------------------------------------
+ I will send a leave letter.
+Rule3- Q.Why will you send a leave letter ? 
+Rule3- Q.How will you send a leave letter ? 
+Rule3- Q.Will you send a leave letter ? 
+Rule4- Q.How will you send a leave letter ? 
+Rule4- Q.Will only you send a leave letter ? 
+Rule4- Q.Why will only you send a leave letter ? 
+Sp.Rule2- Q.Is the letter really leave ? 
+
+-----------------------------------------------------
+ What is your trouble ?
+Sp.Rule6- Q. Why is your trouble?
+Sp.Rule7- Q. How is your trouble?
+
+
+------------------------------------------------
+ I am suffering from headache.
+Rule2- Q.Why are you suffering from headache ? 
+Rule2- Q.How are you suffering from headache ? 
+Rule2- Q.Am you suffering only from headache ? 
+Rule3- Q.Why are you suffering suffering ? 
+Rule3- Q.How are you suffering suffering ? 
+Rule3- Q.Am you suffering suffering ? 
+Rule4- Q.How are you suffering from headache ? 
+Rule4- Q.Am only you suffering from headache ? 
+Rule4- Q.Why are only you suffering from headache ? 
+Sp.Rule5- Q.Am you suffering really ? 
+
+-----------------------------------------------------
+ Did you consult a doctor ?
+Sp.Rule6- Q. Why  Did you consult a doctor?
+Sp.Rule7- Q. How  Did you consult a doctor?
+
+
+------------------------------------------------
+ I am taking tablets.
+Rule3- Q.Why are you taking taking tablets ? 
+Rule3- Q.How are you taking taking tablets ? 
+Rule3- Q.Am you taking taking tablets ? 
+Rule4- Q.How are you taking tablets ? 
+Rule4- Q.Am only you taking tablets ? 
+Rule4- Q.Why are only you taking tablets ? 
+Sp.Rule5- Q.Am you taking really ? 
+Sp.Rule2- Q.Is the tablets really taking ? 
+
+
+-----------------------------------------------------
+ Is your mother at home ?
+Sp.Rule6- Q. Why  Is your mother at home?
+Sp.Rule7- Q. How  Is your mother at home?
+
+
+------------------------------------------------
+ she is.
+Rule4- Q.How is she ? 
+Rule4- Q.Is only she ? 
+Rule4- Q.Why is only she ? 
+
+-----------------------------------------------------
+ Shall I come for help ?
+Sp.Rule6- Q. Why  Shall I come for help?
+Sp.Rule7- Q. How  Shall I come for help?
+
+------------------------------------------------
+ Please come to inform me about the lessons taught today.
+Rule2- Q.Why do please come to inform me about the lessons ? 
+Rule2- Q.How do Please come to inform me about the lessons ? 
+Rule2- Q.Do Please come to inform me only about the lessons ? 
+Rule3- Q.Why do please come to inform me ? 
+Rule3- Q.How do Please come to inform me ? 
+Rule3- Q.Do Please come to inform me ? 
+Rule3- Q.Please come to inform why me about the lessons t N taught today ? 
+Rule3- Q.Please come to inform how me about the lessons t N taught today ? 
+Rule3- Q.Please come to inform me about the lessons t N taught today ? 
+Rule4- Q.How do Please come to inform me about the lessons taught today ? 
+Rule4- Q.Do only Please come to inform me about the lessons taught today ? 
+Rule4- Q.Why do only please come to inform me about the lessons taught today ? 
+Rule4- Q.How me about the lessons taught today ? 
+Rule4- Q.Me only about the lessons taught today ? 
+Rule4- Q.Why me only about the lessons taught today ? 
+Rule5- Q.Why do please come to inform me ? 
+Rule5- Q.Do Please come to inform me really ? 
+Sp.Rule4- Q.How do please inform me ? 
+
+
+//bank
+
+-----------------------------------------------------
+ What do you want ?
+Sp.Rule6- Q. Why  What do you want?
+Sp.Rule7- Q. How  What do you want?
+
+------------------------------------------------
+ I want to apply for loan.
+Rule2- Q.Why you want to apply for loan ? 
+Rule2- Q.How you want to apply for loan ? 
+Rule2- Q.I want to apply only for loan ? 
+Rule4- Q.How you want to apply for loan ? 
+Rule4- Q.I only want to apply for loan ? 
+Rule4- Q.Why you only want to apply for loan ? 
+Rule5- Q.Why you want to apply ? 
+Rule5- Q.I want to apply really ? 
+Sp.Rule4- Q.How do you apply ? 
+
+-----------------------------------------------------
+ Where are you studying now ?
+Sp.Rule6- Q. Why are you studying now?
+Sp.Rule7- Q. How are you studying now?
+
+------------------------------------------------
+ I am studying in Government Engineering College Salem.
+Rule2- Q.Why are you studying in Government Engineering College Salem ? 
+Rule2- Q.How are you studying in Government Engineering College Salem ? 
+Rule2- Q.Am you studying only in Government Engineering College Salem ? 
+Rule3- Q.Why are you studying studying ? 
+Rule3- Q.How are you studying studying ? 
+Rule3- Q.Am you studying studying ? 
+Rule4- Q.How are you studying in Government Engineering College Salem ? 
+Rule4- Q.Am only you studying in Government Engineering College Salem ? 
+Rule4- Q.Why are only you studying in Government Engineering College Salem ? 
+Sp.Rule5- Q.Am you studying really ? 
+
+-----------------------------------------------------
+ What branch have you chosen ?
+Sp.Rule6- Q. Why  branch have you chosen?
+Sp.Rule7- Q. How  branch have you chosen?
+
+------------------------------------------------
+ I have chosen Mechanical Engineering.
+Rule3- Q.Why have you chosen chosen Mechanical Engineering ? 
+Rule3- Q.How have you chosen chosen Mechanical Engineering ? 
+Rule3- Q.Have you chosen chosen Mechanical Engineering ? 
+Rule4- Q.How have you chosen mechanical Engineering ? 
+Rule4- Q.Have only you chosen mechanical Engineering ? 
+Rule4- Q.Why have only you chosen mechanical Engineering ? 
+Sp.Rule5- Q.Have you chosen really ? 
+Sp.Rule2- Q.Is the Mechanical Engineering really chosen ? 
+
+------------------------------------------------
+ I need a loan of $4000 for my higher education.
+Rule2- Q.Why you need a loan of $ 4000 for your ? 
+Rule2- Q.How you need a loan of $ 4000 for your ? 
+Rule2- Q.I need a loan of $ 4000 only for your ? 
+Rule3- Q.Why you need a loan ? 
+Rule3- Q.How you need a loan ? 
+Rule3- Q.I need a loan ? 
+Rule4- Q.How you need a loan of $ 4000 for your higher education ? 
+Rule4- Q.I only need a loan of $ 4000 for your higher education ? 
+Rule4- Q.Why you only need a loan of $ 4000 for your higher education ? 
+Sp.Rule2- Q.Is the education really higher ? 
+Sp.Rule3- Q.Is the higher education really yours ? 
+
+-----------------------------------------------------
+ What is your father's job ?
+Sp.Rule6- Q. Why is your father's job?
+Sp.Rule7- Q. How is your father's job?
+
+
+------------------------------------------------
+ My father is an Inspector of police in Mettur.
+Rule2- Q.Why is your father an inspector of police ? 
+Rule2- Q.How is your father an inspector of police ? 
+Rule2- Q.Is your father an Inspector only of police ? 
+Rule2- Q.Why is your father an inspector of police in Mettur ? 
+Rule2- Q.How is your father an inspector of police in Mettur ? 
+Rule2- Q.Is your father an inspector of police only in Mettur ? 
+Rule3- Q.Why is your father an inspector ? 
+Rule3- Q.How is your father an inspector ? 
+Rule3- Q.Is your father an inspector ? 
+Rule4- Q.How is your father an inspector of police in Mettur ? 
+Rule4- Q.Is only your father an inspector of police in Mettur ? 
+Rule4- Q.Why is only your father an inspector of police in Mettur ? 
+Sp.Rule3- Q.Is the father really yours ? 
+
+------------------------------------------------
+ I will sanction a loan of Rs.
+Rule2- Q.Why will you sanction a loan of Rs ? 
+Rule2- Q.How will you sanction a loan of Rs ? 
+Rule2- Q.Will you sanction a loan only of Rs ? 
+Rule3- Q.Why will you sanction a loan ? 
+Rule3- Q.How will you sanction a loan ? 
+Rule3- Q.Will you sanction a loan ? 
+Rule4- Q.How will you sanction a loan of Rs ? 
+Rule4- Q.Will only you sanction a loan of Rs ? 
+Rule4- Q.Why will only you sanction a loan of Rs ? 
+
+------------------------------------------------
+ It is the limit.
+Rule3- Q.Why is it the limit ? 
+Rule3- Q.How is it the limit ? 
+Rule3- Q.Is it the limit ? 
+Rule4- Q.How is it the limit ? 
+Rule4- Q.Is only it the limit ? 
+Rule4- Q.Why is only it the limit ? 
+
+
+-----------------------------------------------------
+ Shall I bring my father tomorrow ?
+Sp.Rule6- Q. Why  Shall I bring my father tomorrow?
+Sp.Rule7- Q. How  Shall I bring my father tomorrow?
+
+------------------------------------------------
+ Meet me tomorrow morning with your father.
+Sp.Rule3- Q.Is the father really mine ? 
+
+
+//father mother son
+
+-----------------------------------------------------
+ Why are you slow in eating ?
+Sp.Rule6- Q. Why  Why are you slow in eating?
+Sp.Rule7- Q. How  Why are you slow in eating?
+
+------------------------------------------------
+ I am not well.
+Rule4- Q.How are you not well ? 
+Rule4- Q.Am only you not well ? 
+Rule4- Q.Why are only you not well ? 
+
+------------------------------------------------
+ I am suffering from cold.
+Rule3- Q.Why are you suffering suffering ? 
+Rule3- Q.How are you suffering suffering ? 
+Rule3- Q.Am you suffering suffering ? 
+Rule4- Q.How are you suffering from cold ? 
+Rule4- Q.Am only you suffering from cold ? 
+Rule4- Q.Why are only you suffering from cold ? 
+Sp.Rule5- Q.Am you suffering really ? 
+
+-----------------------------------------------------
+ Did you tell me yesterday ?
+Sp.Rule6- Q. Why  Did you tell me yesterday?
+Sp.Rule7- Q. How  Did you tell me yesterday?
+
+
+------------------------------------------------
+ After you have finished your meal.
+Rule3- Q.Why have after me finished finished my meal ? 
+Rule3- Q.How have after me finished finished my meal ? 
+Rule3- Q.Have after me finished finished my meal ? 
+Rule4- Q.How have after me finished my meal ? 
+Rule4- Q.Have only after me finished my meal ? 
+Rule4- Q.Why have only after me finished my meal ? 
+Sp.Rule5- Q.Have i finished really ? 
+Sp.Rule2- Q.Is the my meal really finished ? 
+Sp.Rule3- Q.Is the meal really mine ? 
+
+------------------------------------------------
+go to take your tablets.
+Sp.Rule3- Q.Is the tablets really mine ? 
+Sp.Rule4- Q.How do take my tablets ? 
+
+------------------------------------------------
+ He told me and I forgot to tell you.
+Rule3- Q.Why he told me ? 
+Rule3- Q.How he told me ? 
+Rule4- Q.How he told me and you forgot to tell i ? 
+Rule4- Q.He only told me and you forgot to tell i ? 
+Rule4- Q.Why he only told me and you forgot to tell i ? 
+Rule4- Q.How me and you forgot to tell i ? 
+Rule4- Q.Me only and you forgot to tell i ? 
+Rule4- Q.Why me only and you forgot to tell i ? 
+Rule5- Q.He told why me and you forgot to tell i ? 
+Rule5- Q.He told me and you forgot to tell i really ? 
+Sp.Rule4- Q.How do me and you tell i ? 
+
+------------------------------------------------
+ Apply for leave today.
+Rule4- Q.How today ? 
+Rule4- Q.Today only ? 
+Rule4- Q.Why today only ? 
+
+------------------------------------------------
+ My teacher will not permit me.
+Rule3- Q.Why your teacher will not p N permit me ? 
+Rule3- Q.How your teacher will not p N permit me ? 
+Rule3- Q.My teacher will not p N permit me ? 
+Rule4- Q.How your teacher will not permit me ? 
+Rule4- Q.My only teacher will not permit me ? 
+Rule4- Q.Why your only teacher will not permit me ? 
+Sp.Rule3- Q.Is the teacher really yours ? 
+
+------------------------------------------------
+ I must go to school.
+Rule1- Q.Why must you go to school ? 
+Rule1- Q.How must you go to school ? 
+Rule1- Q.Must you go only to school ? 
+Rule4- Q.How must you go to school ? 
+Rule4- Q.Must only you go to school ? 
+Rule4- Q.Why must only you go to school ? 
+
+------------------------------------------------
+ Go to the medical shop first and then go to school.
+Rule1- Q.Go to the medical shop first why do and then go to school ? 
+Rule1- Q.Go to the medical shop first how do and then go to school ? 
+Rule1- Q.Go to the medical shop first do and then go only to school ? 
+Rule4- Q.How do and then go to school ? 
+Rule4- Q.Do only and then go to school ? 
+Rule4- Q.Why do only and then go to school ? 
+Sp.Rule2- Q.Is the shop really medical ? 
+
+
+//church
+
+-----------------------------------------------------
+ What is that building ?
+Sp.Rule6- Q. Why  is that building?
+Sp.Rule7- Q. How  is that building?
+
+------------------------------------------------
+ It is a Church.
+Rule3- Q.Why is it a Church ? 
+Rule3- Q.How is it a Church ? 
+Rule3- Q.Is it a Church ? 
+Rule4- Q.How is it a Church ? 
+Rule4- Q.Is only it a Church ? 
+Rule4- Q.Why is only it a Church ? 
+
+------------------------------------------------
+ I thought it to be a mosque.
+Rule3- Q.Why you t N thought it ? 
+Rule3- Q.How you t N thought it ? 
+Rule3- Q.I t N thought it ? 
+Rule3- Q.Why you thought it to be a mosque ? 
+Rule3- Q.How you thought it to be a mosque ? 
+Rule3- Q.I thought it to be a mosque ? 
+Rule4- Q.How you thought it to be a mosque ? 
+Rule4- Q.I only thought it to be a mosque ? 
+Rule4- Q.Why you only thought it to be a mosque ? 
+Rule5- Q.Why you thought it to be a mosque ? 
+Rule5- Q.I thought it to be a mosque really ? 
+Sp.Rule4- Q.How do you be a mosque ? 
+
+-----------------------------------------------------
+ How do you know that it is a Church ?
+Sp.Rule6- Q. Why do you know that it is a Church?
+Sp.Rule7- Q. How do you know that it is a Church?
+
+-----------------------------------------------------
+ Can't you see the cross on the top of the tower ?
+Sp.Rule6- Q. Why  Can't you see the cross on the top of the tower?
+Sp.Rule7- Q. How  Can't you see the cross on the top of the tower?
+
+------------------------------------------------
+ I understand.
+Rule4- Q.How you understand ? 
+Rule4- Q.I only understand ? 
+Rule4- Q.Why you only understand ? 
+
+-----------------------------------------------------
+ When will the prayer begin ?
+Sp.Rule6- Q. Why will the prayer begin?
+Sp.Rule7- Q. How will the prayer begin?
+
+------------------------------------------------
+ It will begin at 10 A.
+Rule2- Q.Why will it begin at 10 a ? 
+Rule2- Q.How will it begin at 10 a ? 
+Rule2- Q.Will it begin only at 10 a ? 
+Rule4- Q.How will it begin at 10 a ? 
+Rule4- Q.Will only it begin at 10 a ? 
+Rule4- Q.Why will only it begin at 10 a ? 
+
+-----------------------------------------------------
+ Shall we enter the church ?
+Sp.Rule6- Q. Why  Shall we enter the church?
+Sp.Rule7- Q. How  Shall we enter the church?
+
+-----------------------------------------------------
+ Will they permit us ?
+Sp.Rule6- Q. Why  Will they permit us?
+Sp.Rule7- Q. How  Will they permit us?
+
+------------------------------------------------
+ They will permit us if we like to go in.
+Rule2- Q.Why will they permit us if you ? 
+Rule2- Q.How will they permit us if you ? 
+Rule2- Q.Will they permit us only if you ? 
+Rule3- Q.Why will they permit us ? 
+Rule3- Q.How will they permit us ? 
+Rule3- Q.Will they permit us ? 
+Rule4- Q.How will they permit us if you like to go in ? 
+Rule4- Q.Will only they permit us if you like to go in ? 
+Rule4- Q.Why will only they permit us if you like to go in ? 
+Rule4- Q.How us if you like to go in ? 
+Rule4- Q.Us only if you like to go in ? 
+Rule4- Q.Why us only if you like to go in ? 
+Rule5- Q.They will permit why us if you like to go ? 
+Rule5- Q.They will permit us if you like to go really ? 
+Sp.Rule4- Q.How do us if you go ? 
+
+-----------------------------------------------------
+ Will there be service on all days ?
+Sp.Rule6- Q. Why  Will there be service on all days?
+Sp.Rule7- Q. How  Will there be service on all days?
+
+------------------------------------------------
+ It will be on Sundays and on the days of Christian festivals.
+Rule2- Q.Why will it be on Sundays ? 
+Rule2- Q.How will it be on Sundays ? 
+Rule2- Q.Will it be only on sundays ? 
+Rule2- Q.Why will it be on Sundays and on the days ? 
+Rule2- Q.How will it be on Sundays and on the days ? 
+Rule2- Q.Will it be on Sundays and only on the days ? 
+Rule2- Q.Why will it be on Sundays and on the days of christian festivals ? 
+Rule2- Q.How will it be on Sundays and on the days of christian festivals ? 
+Rule2- Q.Will it be on Sundays and on the days only of christian festivals ? 
+Rule4- Q.How will it be on Sundays and on the days of christian festivals ? 
+Rule4- Q.Will only it be on Sundays and on the days of christian festivals ? 
+Rule4- Q.Why will only it be on Sundays and on the days of christian festivals ? 
+Sp.Rule2- Q.Is the festivals really Christian ? 
+
+
+//traffic cop and student
+
+
+------------------------------------------------
+ You are on the wrong way.
+Rule2- Q.Why are i on the wrong way ? 
+Rule2- Q.How are i on the wrong way ? 
+Rule2- Q.Are i only on the wrong way ? 
+Rule4- Q.How are i on the wrong way ? 
+Rule4- Q.Are only i on the wrong way ? 
+Rule4- Q.Why are only i on the wrong way ? 
+Sp.Rule2- Q.Is the way really wrong ? 
+
+------------------------------------------------
+ I am sorry.
+Rule4- Q.How are you sorry ? 
+Rule4- Q.Am only you sorry ? 
+Rule4- Q.Why are only you sorry ? 
+Sp.Rule5- Q.Am you really sorry ? 
+
+------------------------------------------------
+ I did not see the signal.
+Rule3- Q.Why did you did not see the signal ? 
+Rule3- Q.How did you did not see the signal ? 
+Rule3- Q.Did you did not see the signal ? 
+Rule4- Q.How did you did not see the signal ? 
+Rule4- Q.Did only you did not see the signal ? 
+Rule4- Q.Why did only you did not see the signal ? 
+
+------------------------------------------------
+ You must be careful while crossing the road.
+Rule2- Q.Why must i be careful while crossing the road ? 
+Rule2- Q.How must i be careful while crossing the road ? 
+Rule2- Q.Must i be careful only while crossing the road ? 
+Rule3- Q.You must be why careful while crossing crossing crossing the road ? 
+Rule3- Q.You must be how careful while crossing crossing crossing the road ? 
+Rule3- Q.You must be careful while crossing crossing crossing the road ? 
+Rule4- Q.How must i be careful while crossing the road ? 
+Rule4- Q.Must only i be careful while crossing the road ? 
+Rule4- Q.Why must only i be careful while crossing the road ? 
+Rule4- Q.How careful while crossing crossing the road ? 
+Rule4- Q.Careful only while crossing crossing the road ? 
+Rule4- Q.Why careful only while crossing crossing the road ? 
+Sp.Rule5- Q.Must i be really careful ? 
+Sp.Rule2- Q.Is the the road really crossing ? 
+
+-----------------------------------------------------
+ Where are you studying ?
+Sp.Rule6- Q. Why are you studying?
+Sp.Rule7- Q. How are you studying?
+
+------------------------------------------------
+ I am studying in Don Bosco School.
+Rule2- Q.Why are you studying in Don Bosco School ? 
+Rule2- Q.How are you studying in Don Bosco School ? 
+Rule2- Q.Are you studying only in Don Bosco School ? 
+Rule3- Q.Why are you studying studying ? 
+Rule3- Q.How are you studying studying ? 
+Rule3- Q.Are you studying studying ? 
+Rule4- Q.How are you studying in Don Bosco School ? 
+Rule4- Q.Are only you studying in Don Bosco School ? 
+Rule4- Q.Why are only you studying in Don Bosco School ? 
+Sp.Rule5- Q.Are you studying really ? 
+
+------------------------------------------------
+ I shall visit your school one day.
+Rule3- Q.Why shall you visit my school one day ? 
+Rule3- Q.How shall you visit my school one day ? 
+Rule3- Q.Shall you visit my school one day ? 
+Rule4- Q.How shall you visit my school one day ? 
+Rule4- Q.Shall only you visit my school one day ? 
+Rule4- Q.Why shall only you visit my school one day ? 
+Sp.Rule3- Q.Is the school really mine ? 
+
+------------------------------------------------
+ I will deliver a lecture on traffic rules.
+Rule2- Q.Why will you deliver a lecture on traffic rules ? 
+Rule2- Q.How will you deliver a lecture on traffic rules ? 
+Rule2- Q.Will you deliver a lecture only on traffic rules ? 
+Rule3- Q.Why will you deliver a lecture ? 
+Rule3- Q.How will you deliver a lecture ? 
+Rule3- Q.Will you deliver a lecture ? 
+Rule4- Q.How will you deliver a lecture on traffic rules ? 
+Rule4- Q.Will only you deliver a lecture on traffic rules ? 
+Rule4- Q.Why will only you deliver a lecture on traffic rules ? 
+
+------------------------------------------------
+ I shall meet with your headmaster.
+Rule2- Q.Why shall you meet with my headmaster ? 
+Rule2- Q.How shall you meet with my headmaster ? 
+Rule2- Q.Shall you meet only with my headmaster ? 
+Rule2- Q.Shall you meet without my headmaster ever ? 
+Rule4- Q.How shall you meet with my headmaster ? 
+Rule4- Q.Shall only you meet with my headmaster ? 
+Rule4- Q.Why shall only you meet with my headmaster ? 
+Sp.Rule3- Q.Is the headmaster really mine ? 
+
+------------------------------------------------
+ I will inform him of your arrival.
+Rule2- Q.Why will you inform him of my arrival ? 
+Rule2- Q.How will you inform him of my arrival ? 
+Rule2- Q.Will you inform him only of my arrival ? 
+Rule3- Q.Why will you inform him ? 
+Rule3- Q.How will you inform him ? 
+Rule3- Q.Will you inform him ? 
+Rule4- Q.How will you inform him of my arrival ? 
+Rule4- Q.Will only you inform him of my arrival ? 
+Rule4- Q.Why will only you inform him of my arrival ? 
+Sp.Rule3- Q.Is the arrival really mine ? 
+
+
+//playground
+
+-----------------------------------------------------
+ What is he doing with the roller ?
+Sp.Rule6- Q. Why  is he doing with the roller?
+Sp.Rule7- Q. How  is he doing with the roller?
+
+------------------------------------------------
+ He is levelling the ground.
+Rule3- Q.Why is he levelling levelling the ground ? 
+Rule3- Q.How is he levelling levelling the ground ? 
+Rule3- Q.Is he levelling levelling the ground ? 
+Rule4- Q.How is he levelling the ground ? 
+Rule4- Q.Is only he levelling the ground ? 
+Rule4- Q.Why is only he levelling the ground ? 
+Sp.Rule5- Q.Is he levelling really ? 
+Sp.Rule2- Q.Is the the ground really levelling ? 
+
+-----------------------------------------------------
+ What is he doing with the spade ?
+Sp.Rule6- Q. Why  is he doing with the spade?
+Sp.Rule7- Q. How  is he doing with the spade?
+
+------------------------------------------------
+ He is removing the grass and thorns with the spade.
+Rule2- Q.Why is he removing the grass and thorns with the spade ? 
+Rule2- Q.How is he removing the grass and thorns with the spade ? 
+Rule2- Q.Is he removing the grass and thorns only with the spade ? 
+Rule2- Q.Is he removing the grass and thorns without the spade ever ? 
+Rule3- Q.Why is he removing removing the grass ? 
+Rule3- Q.How is he removing removing the grass ? 
+Rule3- Q.Is he removing removing the grass ? 
+Rule4- Q.How is he removing the grass and thorns with the spade ? 
+Rule4- Q.Is only he removing the grass and thorns with the spade ? 
+Rule4- Q.Why is only he removing the grass and thorns with the spade ? 
+Sp.Rule5- Q.Is he removing really ? 
+Sp.Rule2- Q.Is the the grass really removing ? 
+
+------------------------------------------------
+ He is over there giving directions to the students.
+Rule1- Q.Why is he over there giving directions to the students ? 
+Rule1- Q.How is he over there giving directions to the students ? 
+Rule1- Q.Is he over there giving directions only to the students ? 
+Rule3- Q.He is why over there giving giving directions ? 
+Rule3- Q.He is how over there giving giving directions ? 
+Rule3- Q.He is over there giving giving directions ? 
+Rule4- Q.How is he over there giving directions to the students ? 
+Rule4- Q.Is only he over there giving directions to the students ? 
+Rule4- Q.Why is only he over there giving directions to the students ? 
+Sp.Rule2- Q.Is the directions really giving ? 
+
+
+-----------------------------------------------------
+ When is our sports Day ?
+Sp.Rule6- Q. Why is our sports Day?
+Sp.Rule7- Q. How is our sports Day?
+
+------------------------------------------------
+ The sports day is on Saturday the 23rd of this month.
+Rule2- Q.Why is the sports day on Saturday the 23rd ? 
+Rule2- Q.How is the sports day on Saturday the 23rd ? 
+Rule2- Q.Is the sports day only on Saturday the 23rd ? 
+Rule2- Q.Why is the sports day on Saturday the 23rd of this month ? 
+Rule2- Q.How is the sports day on Saturday the 23rd of this month ? 
+Rule2- Q.Is the sports day on Saturday the 23rd only of this month ? 
+Rule4- Q.How is the sports day on Saturday the 23rd of this month ? 
+Rule4- Q.Is only the sports day on Saturday the 23rd of this month ? 
+Rule4- Q.Why is only the sports day on Saturday the 23rd of this month ? 
+
+-----------------------------------------------------
+ Who presides over the sports Day function ?
+Sp.Rule6- Q. Why  presides over the sports Day function?
+Sp.Rule7- Q. How  presides over the sports Day function?
+
+------------------------------------------------
+ Our Headmaster presides over the function.
+Rule4- Q.How over the function ? 
+Rule4- Q.Over only the function ? 
+Rule4- Q.Why over only the function ? 
+Sp.Rule3- Q.Is the Headmaster really yours ? 
+
+-----------------------------------------------------
+ Do you take part in any event ?
+Sp.Rule6- Q. Why  Do you take part in any event?
+Sp.Rule7- Q. How  Do you take part in any event?
+Sp.Rule1- Q.Is it true that the part is in any event ? 
+
+------------------------------------------------
+ I take part in long jump.
+Rule2- Q.Why do you take part in long jump ? 
+Rule2- Q.How do you take part in long jump ? 
+Rule2- Q.Do you take part only in long jump ? 
+Rule3- Q.Why do you take part ? 
+Rule3- Q.How do you take part ? 
+Rule3- Q.Do you take part ? 
+Rule4- Q.How do you take part in long jump ? 
+Rule4- Q.Do only you take part in long jump ? 
+Rule4- Q.Why do only you take part in long jump ? 
+
+
+//Child and Clerk 
+
+------------------------------------------------
+ I want to book one STD call to New York.
+Rule1- Q.Why you want to book one Std call ? 
+Rule1- Q.How you want to book one Std call ? 
+Rule1- Q.I want only to book one Std call ? 
+Rule1- Q.Why you want to book one Std call to New York ? 
+Rule1- Q.How you want to book one Std call to New York ? 
+Rule1- Q.I want to book one Std call only to New York ? 
+Rule4- Q.How you want to book one Std call to New York ? 
+Rule4- Q.I only want to book one Std call to New York ? 
+Rule4- Q.Why you only want to book one Std call to New York ? 
+
+-----------------------------------------------------
+ What is the number ?
+Sp.Rule6- Q. Why is the number?
+Sp.Rule7- Q. How is the number?
+
+------------------------------------------------
+ It is written on this piece of paper.
+Rule2- Q.Why is it written on this piece ? 
+Rule2- Q.How is it written on this piece ? 
+Rule2- Q.Is it written only on this piece ? 
+Rule2- Q.Why is it written on this piece of paper ? 
+Rule2- Q.How is it written on this piece of paper ? 
+Rule2- Q.Is it written on this piece only of paper ? 
+Rule3- Q.Why is it written written ? 
+Rule3- Q.How is it written written ? 
+Rule3- Q.Is it written written ? 
+Rule4- Q.How is it written on this piece of paper ? 
+Rule4- Q.Is only it written on this piece of paper ? 
+Rule4- Q.Why is only it written on this piece of paper ? 
+Sp.Rule5- Q.Is it written really ? 
+
+------------------------------------------------
+ Wait for some time as the line for New York appears to be very busy.
+Rule4- Q.How does Wait for some time as the line for New York appears to be very busy ? 
+Rule4- Q.Does only Wait for some time as the line for New York appears to be very busy ? 
+Rule4- Q.Why does only Wait for some time as the line for New York appears to be very busy ? 
+Rule5- Q.Why does Wait for some time as the line for New York appears to be very busy ? 
+Rule5- Q.Does Wait for some time as the line for New York appears to be very busy really ? 
+Sp.Rule4- Q.How do Wait for some time as the line for New York be very busy ? 
+
+
+-----------------------------------------------------
+ Shall I pay any advance ?
+Sp.Rule6- Q. Why  Shall I pay any advance?
+Sp.Rule7- Q. How  Shall I pay any advance?
+
+------------------------------------------------
+ You may pay $3.
+Rule4- Q.How may i pay $ 3 ? 
+Rule4- Q.May only i pay $ 3 ? 
+Rule4- Q.Why may only i pay $ 3 ? 
+
+------------------------------------------------
+ Here is a $5 note.
+
+
+------------------------------------------------
+ Try to give correct change.
+Sp.Rule2- Q.Is the change really correct ? 
+Sp.Rule4- Q.How do give correct change ? 
+
+------------------------------------------------
+ I have no change.
+Rule3- Q.Why do you have no change ? 
+Rule3- Q.How do you have no change ? 
+Rule3- Q.Do you have no change ? 
+Rule4- Q.How do you have no change ? 
+Rule4- Q.Do only you have no change ? 
+Rule4- Q.Why do only you have no change ? 
+
+------------------------------------------------
+ I shall wait.
+Rule4- Q.How shall you wait ? 
+Rule4- Q.Shall only you wait ? 
+Rule4- Q.Why shall only you wait ? 
+
+-----------------------------------------------------
+ Who are you those people outside the door ?
+Sp.Rule6- Q. Why  are you those people outside the door?
+Sp.Rule7- Q. How  are you those people outside the door?
+
+------------------------------------------------
+ They are my parents.
+Rule3- Q.Why are they your parents ? 
+Rule3- Q.How are they your parents ? 
+Rule3- Q.Are they your parents ? 
+Rule4- Q.How are they your parents ? 
+Rule4- Q.Are only they your parents ? 
+Rule4- Q.Why are only they your parents ? 
+Sp.Rule3- Q.Is the parents really yours ? 
+
+
+//admission
+
+------------------------------------------------
+ Good morning.
+Sp.Rule2- Q.Is the morning really Good ? 
+
+------------------------------------------------
+ Good morning.
+Sp.Rule2- Q.Is the morning really Good ? 
+
+------------------------------------------------
+ Sit down.
+Rule4- Q.How Sit down ? 
+Rule4- Q.Sit only down ? 
+Rule4- Q.Why Sit only down ? 
+
+-----------------------------------------------------
+ What do you want ?
+Sp.Rule6- Q. Why do you want?
+Sp.Rule7- Q. How do you want?
+
+------------------------------------------------
+ I want admission into Sixth Standard.
+Rule2- Q.Why you want admission into Sixth Standard ? 
+Rule2- Q.How you want admission into Sixth Standard ? 
+Rule2- Q.I want admission only into Sixth Standard ? 
+Rule3- Q.Why you w J want admission ? 
+Rule3- Q.How you w J want admission ? 
+Rule3- Q.I w J want admission ? 
+Rule4- Q.How you want admission into Sixth Standard ? 
+Rule4- Q.I only want admission into Sixth Standard ? 
+Rule4- Q.Why you only want admission into Sixth Standard ? 
+
+
+-----------------------------------------------------
+ Where did you study last year ?
+Sp.Rule6- Q. Why did you study last year?
+Sp.Rule7- Q. How did you study last year?
+Sp.Rule5- Q.You study really last ? 
+
+------------------------------------------------
+ I studied in Tirumangalam.
+Rule2- Q.Why did you studied in Tirumangalam ? 
+Rule2- Q.How did you studied in Tirumangalam ? 
+Rule2- Q.Did you studied only in Tirumangalam ? 
+Rule4- Q.How did you studied in Tirumangalam ? 
+Rule4- Q.Did only you studied in Tirumangalam ? 
+Rule4- Q.Why did only you studied in Tirumangalam ? 
+
+-----------------------------------------------------
+ Then why do you want admission here ?
+Sp.Rule6- Q. Why  do you want admission here?
+Sp.Rule7- Q. How  do you want admission here?
+
+------------------------------------------------
+ My father has been transferred to Madurai Branch.
+Rule1- Q.Why has your father been transferred to Madurai Branch ? 
+Rule1- Q.How has your father been transferred to Madurai Branch ? 
+Rule1- Q.Has your father been transferred only to Madurai Branch ? 
+Rule3- Q.Why has your father been transferred been transferred ? 
+Rule3- Q.How has your father been transferred been transferred ? 
+Rule3- Q.Has your father been transferred been transferred ? 
+Rule4- Q.How has your father been transferred to Madurai Branch ? 
+Rule4- Q.Has only your father been transferred to Madurai Branch ? 
+Rule4- Q.Why has only your father been transferred to Madurai Branch ? 
+Sp.Rule5- Q.Has your father been transferred really ? 
+Sp.Rule2- Q.Is the really been transferred ? 
+Sp.Rule3- Q.Is the father really yours ? 
+
+-----------------------------------------------------
+ What is your father ?
+Sp.Rule6- Q. Why  is your father?
+Sp.Rule7- Q. How  is your father?
+
+
+------------------------------------------------
+ He is a Bank Officer.
+Rule3- Q.Why is he a Bank Officer ? 
+Rule3- Q.How is he a Bank Officer ? 
+Rule3- Q.Is he a Bank Officer ? 
+Rule4- Q.How is he a Bank Officer ? 
+Rule4- Q.Is only he a Bank Officer ? 
+Rule4- Q.Why is only he a Bank Officer ? 
+
+-----------------------------------------------------
+ Where is he ?
+Sp.Rule6- Q. Why is he?
+Sp.Rule7- Q. How is he?
+
+------------------------------------------------
+ He is seated there.
+Rule3- Q.Why is he seated seated ? 
+Rule3- Q.How is he seated seated ? 
+Rule3- Q.Is he seated seated ? 
+Rule4- Q.How is he seated there ? 
+Rule4- Q.Is only he seated there ? 
+Rule4- Q.Why is only he seated there ? 
+Sp.Rule5- Q.Is he seated really ? 
+
+-----------------------------------------------------
+ Shall I call him ?
+Sp.Rule6- Q. Why  Shall I call him?
+Sp.Rule7- Q. How  Shall I call him?
+
+------------------------------------------------
+ Fill in this application form and come in the afternoon.
+Rule2- Q.Why do fill in this application form and come in the afternoon ? 
+Rule2- Q.How do Fill in this application form and come in the afternoon ? 
+Rule2- Q.Do Fill in this application form and come only in the afternoon ? 
+Rule4- Q.How do Fill in this application form and come in the afternoon ? 
+Rule4- Q.Do only Fill in this application form and come in the afternoon ? 
+Rule4- Q.Why do only fill in this application form and come in the afternoon ? 
+
+
+//library////////////////////////////////////////////////////////////////////
+
+-----------------------------------------------------
+ Are you coming from the library ?
+Sp.Rule6- Q. Why  Are you coming from the library?
+Sp.Rule7- Q. How  Are you coming from the library?
+
+------------------------------------------------
+ I was there from 2 p.
+Rule2- Q.Why did you was there from 2 p ? 
+Rule2- Q.How did you was there from 2 p ? 
+Rule2- Q.Did you was there only from 2 p ? 
+Rule4- Q.How did you was there from 2 p ? 
+Rule4- Q.Did only you was there from 2 p ? 
+Rule4- Q.Why did only you was there from 2 p ? 
+
+-----------------------------------------------------
+ What book are you carrying ?
+Sp.Rule6- Q. Why book are you carrying?
+Sp.Rule7- Q. How book are you carrying?
+
+------------------------------------------------
+ It is a book on quiz.
+Rule2- Q.Why is it a book on quiz ? 
+Rule2- Q.How is it a book on quiz ? 
+Rule2- Q.Is it a book only on quiz ? 
+Rule3- Q.Why is it a book ? 
+Rule3- Q.How is it a book ? 
+Rule3- Q.Is it a book ? 
+Rule4- Q.How is it a book on quiz ? 
+Rule4- Q.Is only it a book on quiz ? 
+Rule4- Q.Why is only it a book on quiz ? 
+
+-----------------------------------------------------
+ Are you a member of the library ?
+Sp.Rule6- Q. Why  Are you a member of the library?
+Sp.Rule7- Q. How  Are you a member of the library?
+Sp.Rule1- Q.Is it true that the Are i a member is of the library ? 
+
+------------------------------------------------
+ I have been a member from January 2005.
+Rule2- Q.Why have you been a member from January 2005 ? 
+Rule2- Q.How have you been a member from January 2005 ? 
+Rule2- Q.Have you been a member only from January 2005 ? 
+Rule3- Q.Why have you been been a member ? 
+Rule3- Q.How have you been been a member ? 
+Rule3- Q.Have you been been a member ? 
+Rule4- Q.How have you been a member from January 2005 ? 
+Rule4- Q.Have only you been a member from January 2005 ? 
+Rule4- Q.Why have only you been a member from January 2005 ? 
+Sp.Rule5- Q.Have you been really ? 
+Sp.Rule2- Q.Is the a member really been ? 
+
+-----------------------------------------------------
+ Do you want to become a member ?
+Sp.Rule6- Q. Why  Do you want to become a member?
+Sp.Rule7- Q. How  Do you want to become a member?
+
+-----------------------------------------------------
+ What is the membership fee ?
+Sp.Rule6- Q. Why  is the membership fee?
+Sp.Rule7- Q. How  is the membership fee?
+
+------------------------------------------------
+ You must deposit $2 only.
+Rule4- Q.How must i deposit $ 2 only ? 
+Rule4- Q.Must only i deposit $ 2 only ? 
+Rule4- Q.Why must only i deposit $ 2 only ? 
+
+-----------------------------------------------------
+ What is the monthly subscription ?
+Sp.Rule6- Q. Why  is the monthly subscription?
+Sp.Rule7- Q. How  is the monthly subscription?
+
+------------------------------------------------
+ There is no monthly subscription.
+Sp.Rule2- Q.Is the subscription really monthly ? 
+
+-----------------------------------------------------
+ How many books can we borrow at a time ?
+Sp.Rule6- Q. Why  books can we borrow at a time?
+Sp.Rule7- Q. How  books can we borrow at a time?
+
+------------------------------------------------
+ We can borrow three books at a time.
+Rule2- Q.Why can you borrow three books at a time ? 
+Rule2- Q.How can you borrow three books at a time ? 
+Rule2- Q.Can you borrow three books only at a time ? 
+Rule3- Q.Why can you borrow three books ? 
+Rule3- Q.How can you borrow three books ? 
+Rule3- Q.Can you borrow three books ? 
+Rule4- Q.How can you borrow three books at a time ? 
+Rule4- Q.Can only you borrow three books at a time ? 
+Rule4- Q.Why can only you borrow three books at a time ? 
+
+------------------------------------------------
+ I will soon become a member of the library.
+Rule2- Q.Why you will soon become a member of the library ? 
+Rule2- Q.How you will soon become a member of the library ? 
+Rule2- Q.I will soon become a member only of the library ? 
+Rule3- Q.Why you will soon become a member ? 
+Rule3- Q.How you will soon become a member ? 
+Rule3- Q.I will soon become a member ? 
+Rule4- Q.How you will soon become a member of the library ? 
+Rule4- Q.I only will soon become a member of the library ? 
+Rule4- Q.Why you only will soon become a member of the library ? 
+
+
+
+//post office clerk and boy        ////////////////////////////////////
+
+
+------------------------------------------------
+ I want to send money to my brother.
+Rule1- Q.Why you want to send money to your brother ? 
+Rule1- Q.How you want to send money to your brother ? 
+Rule1- Q.I want to send money only to your brother ? 
+Rule3- Q.Why you want to send money ? 
+Rule3- Q.How you want to send money ? 
+Rule3- Q.I want to send money ? 
+Rule4- Q.How you want to send money to your brother ? 
+Rule4- Q.I only want to send money to your brother ? 
+Rule4- Q.Why you only want to send money to your brother ? 
+Rule5- Q.Why you want to send money ? 
+Rule5- Q.I want to send money really ? 
+Sp.Rule3- Q.Is the brother really yours ? 
+Sp.Rule4- Q.How do you send money ? 
+
+-----------------------------------------------------
+ Where is the money order form ?
+Sp.Rule6- Q. Why  is the money order form?
+Sp.Rule7- Q. How  is the money order form?
+
+------------------------------------------------
+ Here it is.
+Rule4- Q.How is it ? 
+Rule4- Q.Is only it ? 
+Rule4- Q.Why is only it ? 
+
+-----------------------------------------------------
+ How much do you want to send to your brother ?
+Sp.Rule6- Q. Why  do you want to send to your brother?
+Sp.Rule7- Q. How  do you want to send to your brother?
+
+-----------------------------------------------------
+ Where is your brother studying ?
+Sp.Rule6- Q. Why is your brother studying?
+Sp.Rule7- Q. How is your brother studying?
+
+------------------------------------------------
+ He is studying in Theni.
+Rule2- Q.Why is he studying in Theni ? 
+Rule2- Q.How is he studying in Theni ? 
+Rule2- Q.Is he studying only in Theni ? 
+Rule3- Q.Why is he studying studying ? 
+Rule3- Q.How is he studying studying ? 
+Rule3- Q.Is he studying studying ? 
+Rule4- Q.How is he studying in Theni ? 
+Rule4- Q.Is only he studying in Theni ? 
+Rule4- Q.Why is only he studying in Theni ? 
+Sp.Rule5- Q.Is he studying really ? 
+
+-----------------------------------------------------
+ When will the money order reach him ?
+Sp.Rule6- Q. Why  will the money order reach him?
+Sp.Rule7- Q. How  will the money order reach him?
+
+------------------------------------------------
+ Your brother will get the money tomorrow.
+Rule3- Q.Why will my brother get the money tomorrow ? 
+Rule3- Q.How will my brother get the money tomorrow ? 
+Rule3- Q.Will my brother get the money tomorrow ? 
+Rule4- Q.How will my brother get the money tomorrow ? 
+Rule4- Q.Will only my brother get the money tomorrow ? 
+Rule4- Q.Why will only my brother get the money tomorrow ? 
+Sp.Rule3- Q.Is the brother really mine ? 
+
+
+//movie theater
+
+-----------------------------------------------------
+ When did you start from your house ?
+Sp.Rule6- Q. Why  did you start from your house?
+Sp.Rule7- Q. How  did you start from your house?
+
+------------------------------------------------
+ I started at about 4.
+Rule2- Q.Why did you started at about 4 ? 
+Rule2- Q.How did you started at about 4 ? 
+Rule2- Q.Did you started only at about 4 ? 
+Rule4- Q.How did you started at about 4 ? 
+Rule4- Q.Did only you started at about 4 ? 
+Rule4- Q.Why did only you started at about 4 ? 
+
+-----------------------------------------------------
+ Was there a crowd in the ticket counter when you came ?
+Sp.Rule6- Q. Why  Was there a crowd in the ticket counter when you came?
+Sp.Rule7- Q. How  Was there a crowd in the ticket counter when you came?
+Sp.Rule1- Q.Is it true that the crowd is in the ticket counter ? 
+
+------------------------------------------------
+ When I came the counter was free.
+Rule3- Q.When why did you came the counter ? 
+Rule3- Q.When how did you came the counter ? 
+Rule3- Q.When did you came the counter ? 
+Rule4- Q.How did you came the counter was free ? 
+Rule4- Q.Did only you came the counter was free ? 
+Rule4- Q.Why did only you came the counter was free ? 
+Rule4- Q.How did the counter was free ? 
+Rule4- Q.Did only the counter was free ? 
+Rule4- Q.Why did only the counter was free ? 
+Sp.Rule5- Q.Did the counter was really free ? 
+
+------------------------------------------------
+ Today there is far less crowd than usual.
+
+
+-----------------------------------------------------
+ Who is he on the screen ?
+Sp.Rule6- Q. Why  is he on the screen?
+Sp.Rule7- Q. How  is he on the screen?
+
+------------------------------------------------
+ He is Vadivelu the comedian.
+Rule3- Q.Why is he vadivelu the comedian ? 
+Rule3- Q.How is he vadivelu the comedian ? 
+Rule3- Q.Is he vadivelu the comedian ? 
+Rule4- Q.How is he vadivelu the comedian ? 
+Rule4- Q.Is only he vadivelu the comedian ? 
+Rule4- Q.Why is only he vadivelu the comedian ? 
+
+------------------------------------------------
+ He has become very popular recently.
+Rule3- Q.Why has he become become ? 
+Rule3- Q.How has he become become ? 
+Rule3- Q.Has he become become ? 
+Rule4- Q.How has he become very popular recently ? 
+Rule4- Q.Has only he become very popular recently ? 
+Rule4- Q.Why has only he become very popular recently ? 
+Sp.Rule5- Q.Has he become really very popular ? 
+
+------------------------------------------------
+ His film Maruthamalai is very famous.
+Rule4- Q.How is his film Maruthamalai very famous ? 
+Rule4- Q.Is only his film Maruthamalai very famous ? 
+Rule4- Q.Why is only his film Maruthamalai very famous ? 
+Sp.Rule5- Q.Is his film Maruthamalai really very famous ? 
+Sp.Rule3- Q.Is the film Maruthamalai really of him ? 
+
+------------------------------------------------
+ That is true.
+Rule4- Q.How is that true ? 
+Rule4- Q.Is only that true ? 
+Rule4- Q.Why is only that true ? 
+Sp.Rule5- Q.Is that really true ? 
+
+------------------------------------------------
+ bring your camera to take a photo of the tall building there.
+Sp.Rule2- Q.Is the building really t N ? 
+Sp.Rule3- Q.Is the camera really mine ? 
+Sp.Rule4- Q.How do take a photo ? 
+
+------------------------------------------------
+ It is the lodge where we shall stay.
+Rule3- Q.Why is it the lodge ? 
+Rule3- Q.How is it the lodge ? 
+Rule3- Q.Is it the lodge ? 
+Rule4- Q.How is it the lodge where you shall stay ? 
+Rule4- Q.Is only it the lodge where you shall stay ? 
+Rule4- Q.Why is only it the lodge where you shall stay ? 
+Rule4- Q.How shall you stay ? 
+Rule4- Q.Shall only you stay ? 
+Rule4- Q.Why shall only you stay ? 
+
+-----------------------------------------------------
+ What is the name of the lodge ?
+Sp.Rule6- Q. Why  is the name of the lodge?
+Sp.Rule7- Q. How  is the name of the lodge?
+Sp.Rule1- Q.Is it true that the name is of the lodge ? 
+
+------------------------------------------------
+ It is called The Karnataka Palace.
+Rule3- Q.Why is it called called the Karnataka Palace ? 
+Rule3- Q.How is it called called the Karnataka Palace ? 
+Rule3- Q.Is it called called the Karnataka Palace ? 
+Rule4- Q.How is it called the Karnataka Palace ? 
+Rule4- Q.Is only it called the Karnataka Palace ? 
+Rule4- Q.Why is only it called the Karnataka Palace ? 
+Sp.Rule5- Q.Is it called really ? 
+Sp.Rule2- Q.Is the the Karnataka Palace really called ? 
+
+-----------------------------------------------------
+ Shall we go around the famous lake here ?
+Sp.Rule6- Q. Why  Shall we go around the famous lake here?
+Sp.Rule7- Q. How  Shall we go around the famous lake here?
+
+------------------------------------------------
+ we shall go and have a ride in the boat.
+Rule2- Q.We shall go why do and have a ride in the boat ? 
+Rule2- Q.We shall go how do and have a ride in the boat ? 
+Rule2- Q.We shall go do and have a ride only in the boat ? 
+Rule3- Q.We shall go why do and have a ride ? 
+Rule3- Q.We shall go how do and have a ride ? 
+Rule3- Q.We shall go do and have a ride ? 
+Rule4- Q.How shall you go and have a ride in the boat ? 
+Rule4- Q.Shall only you go and have a ride in the boat ? 
+Rule4- Q.Why shall only you go and have a ride in the boat ? 
+Rule4- Q.How do and have a ride in the boat ? 
+Rule4- Q.Do only and have a ride in the boat ? 
+Rule4- Q.Why do only and have a ride in the boat ? 
+
+-----------------------------------------------------
+ What are they doing ?
+Sp.Rule6- Q. Why  are they doing?
+Sp.Rule7- Q. How  are they doing?
+
+
+------------------------------------------------
+ They are playing hide and seek.
+Rule3- Q.Why are they playing playing hide ? 
+Rule3- Q.How are they playing playing hide ? 
+Rule3- Q.Are they playing playing hide ? 
+Rule4- Q.How are they playing hide and seek ? 
+Rule4- Q.Are only they playing hide and seek ? 
+Rule4- Q.Why are only they playing hide and seek ? 
+Sp.Rule5- Q.Are they playing really ? 
+Sp.Rule2- Q.Is the hide really playing ? 
+
+------------------------------------------------
+ The driver is not here.
+Rule4- Q.How is the driver not here ? 
+Rule4- Q.Is only the driver not here ? 
+Rule4- Q.Why is only the driver not here ? 
+
+-----------------------------------------------------
+ Where has he gone ?
+Sp.Rule6- Q. Why has he gone?
+Sp.Rule7- Q. How  has he gone?
+
+------------------------------------------------
+ He has gone to the hotel for a cup of tea.
+Rule1- Q.Why has he gone to the hotel ? 
+Rule1- Q.How has he gone to the hotel ? 
+Rule1- Q.Has he gone only to the hotel ? 
+Rule2- Q.Why has he gone to the hotel for a cup ? 
+Rule2- Q.How has he gone to the hotel for a cup ? 
+Rule2- Q.Has he gone to the hotel only for a cup ? 
+Rule2- Q.Why has he gone to the hotel for a cup of tea ? 
+Rule2- Q.How has he gone to the hotel for a cup of tea ? 
+Rule2- Q.Has he gone to the hotel for a cup only of tea ? 
+Rule3- Q.Why has he gone gone ? 
+Rule3- Q.How has he gone gone ? 
+Rule3- Q.Has he gone gone ? 
+Rule4- Q.How has he gone to the hotel for a cup of tea ? 
+Rule4- Q.Has only he gone to the hotel for a cup of tea ? 
+Rule4- Q.Why has only he gone to the hotel for a cup of tea ? 
+Sp.Rule5- Q.Has he gone really ? 
+

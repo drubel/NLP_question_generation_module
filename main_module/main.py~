@@ -1,0 +1,51 @@
+import Clause
+import Non_clause
+import Identification
+import nltk
+
+
+def function(sen):
+    list1=sen.split(".")
+    ner=
+    if len(list1)!=0:
+        for i in range(len(list1)):
+            list2=list1[i].split(",")
+            str1=[]
+            str1.append(list1[i])
+            if(len(list2))!=0:
+                for j in range(len(list2)):
+                    if Identification.clause_identify(list2,j):
+                        strrrr=[]
+                    else:
+                        try:
+                            s=Identification.subjectphrase_search(list2,j)
+                        except Exception:
+                            pass
+                        
+                        if len(s)!=0:
+                           list2[j]=s+list2[j]
+                           try:
+                               str1+=Clause.whom_1(llist2,j)
+                           except Exception:
+                               pass
+                        else:
+                            try:
+                                str1+=Non_clause.what_whom1(list2,j)
+                            except Exception:
+                                pass
+                            try:
+                                str1+=Non_clause.what_whom2(list2,j)
+                            except Exception:
+                                pass
+                            try:
+                                str1+=Non_clause.whose(list2,j)
+                            except Exception:
+                                pass                            
+                            try:
+                                str1+=Non_clause.howmany(list2,j)
+                            except Exception:
+                                pass                            
+                            try:
+                                str1+=Non_clause.howmuch_1(list2,j)
+                            except Exception:
+                                pass                

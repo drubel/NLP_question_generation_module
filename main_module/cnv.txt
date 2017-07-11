@@ -1,0 +1,266 @@
+//Booking or scheduling a taxi in a hotel conversation
+David: Hello, would you organize me a taxi for tomorrow afternoon?
+Hotel receptionist: That will be no problem. Where do you want the taxi to take you?
+David: I have to be at a business conference at the Regents hotel. I am hoping that it is not very far away from here.
+Hotel receptionist: No. It is only a twenty minute drive from this hotel.
+David: Book the taxi for one in the afternoon, please.
+Hotel receptionist: I will make the booking right away.
+David: Thank you for your help.
+Hotel receptionist: Would you like me to order a taxi for when you return?
+David: That's a great idea. Could you make sure the taxi is waiting for me outside at six?
+Hotel receptionist: Do not worry, we will take care of that.
+
+//Conversation between 2 people who have not met for a long time
+LINDA: Well, hello there, Deborah! It is great to see you again.
+DEBORAH: It is great to see you. What are you doing in Manchester?
+LINDA: I just got a new job in Manchester in finance, so I am shopping for some new clothes.
+DEBORAH: I have got the same skirt as you!
+LINDA: You have always had great taste in clothes! Well this is a small world.
+DEBORAH: We must keep in touch. You still have my mobile number?
+LINDA: No. I lost my phone.
+DEBORAH: OK. I will save your new number.
+LINDA: I have got to go back to work, give us a ring so we can arrange dinner sometime.
+DEBORAH: Take care. Bye. 
+
+//Conversation about the weather?
+Mr Bean: Good morning!
+Shopkeeper: Morning. How are you today?
+Mr Bean: Not so bad, thanks. You?
+Shopkeeper: I am good, apart from all this rain!
+Mr Bean: It's awful, isn't it?
+hopkeeper: The weather forecast said it will brighten up after lunch.
+Mr Bean: They always say that! Still, I can't complain as it's a lot warmer than back at home.
+Shopkeeper: Really? Where are you from?
+Mr Bean: Freezing cold, and snowing.
+Shopkeeper: Right! So this must be like summer for you!
+Mr Bean: Right! But I do like the snow sometimes.
+
+//teacher and student
+Teacher: Where is Kannan? 
+Sanjay: He is absent today, sir. 
+Teacher: Why is he absent? 
+Sanjay: He has gone to Kolkata to attend his sister's marriage, sir. 
+Teacher: Has he sent the leave letter through you? 
+Sanjay: No, sir. 
+Teacher: He must be present with leave letter. 
+Sanjay: Yes, sir. 
+Teacher: Have you answered the paragraph questions? 
+Sanjay: Yes, sir. I have. 
+Teacher: Boys, look at that picture on the wall. 
+Sanjay: Who is he? 
+Teacher: He is a Bengali Poet named Tagore. 
+Sanjay: Sir, I know about him very well. He got the Nobel Prize for literature. 
+
+//Drill Master and The Captain 
+Drill Master: Boys, practice well today. 
+Captain: Yes, Sir. 
+Drill Master: Who is our opponent? 
+Captain: The V.C. High School team is our opponent. 
+Drill Master: Have you taken all the bats and balls? 
+Captain: Yes sir. We have four bats and three balls. 
+Drill Master: Do you know the ground where the match is to be played? 
+Captain: It is to be played in Railway ground. 
+Drill Master: Go by bus and make sure you have net practice. 
+Captain: Will you be present during our net practice? 
+Drill Master: Yes. I will come. 
+
+//election meeting
+Ramgopal: Who is addressing the meeting? 
+Suresh: He is the candidate of the Congress party. 
+Ramgopal: When is the election to be held? 
+Suresh: On Sunday. 
+Ramgopal: How many candidates are contesting? 
+Suresh: There are seven candidates in the field. 
+Ramgopal: He is the first man speaking. 
+Suresh: When will the meeting come to an end? 
+Ramgopal: Perhaps at 10.30 P.M. 
+Suresh: These dasy election meetings are a nuisance. 
+
+//reception counter
+Receptionist: How may I help you? 
+Guest: I need a room. 
+Receptionist: Do you require a single or double room or a suite? 
+Guest: A single room will do. 
+Receptionist: Please fill your name in this register. 
+Guest: May I know the tariff please? 
+Receptionist: It's nine hundred rupees a day. 
+Guest: Does it include breakfast? 
+Receptionist: No, sir. It's just for the accommodation. 
+Guest: Is the room air conditioned? 
+Receptionist: All our rooms are centrally air-conditioned. 
+Guest: Do you have a restaurant? 
+Receptionist: Not one. We have three. We offer Indian, Western and Chinese cuisine catered by the different restaurants. 
+Guest: That's good news. I can choose different cuisine for different meals. 
+
+//friends over telephone
+Anusiya: Hello Ganesh! How are you? 
+Ganesh: Hello Anusiya! I am fine. 
+Anusiya: Have you done the homework in Maths? 
+Ganesh: No. I am ill. 
+Anusiya: Will you come to school today? 
+Ganesh: No. I will send a leave letter. 
+Anusiy : What is your trouble? 
+Ganesh: I am suffering from headache. 
+Anusiya: Did you consult a doctor? 
+Ganesh: No. I am taking tablets. 
+Anusiya: Is your mother at home? 
+Ganesh: Yes, she is. 
+Anusiya: Shall I come for help? 
+Ganesh: Please come to inform me about the lessons taught today. 
+
+//bank
+Manager: What do you want? 
+Student: I want to apply for loan. 
+Manager: Where are you studying now? 
+Student: I am studying in Government Engineering College Salem. 
+Manager: What branch have you chosen? 
+Student: I have chosen Mechanical Engineering. 
+Student: I need a loan of $4000 for my higher education.
+Manager: What is your father's job? 
+Student: My father is an Inspector of police in Mettur, Salem District. 
+Manager: I will sanction a loan of Rs. $2000 only. It is the limit. 
+Student: Shall I bring my father tomorrow? 
+Manager: Yes. Meet me tomorrow morning with your father. 
+
+//father mother son
+Father: Why are you slow in eating? 
+Son: I am not well. I am suffering from cold. 
+Father: Did you tell me yesterday? 
+Father: After you have finished your meal,go to take your tablets.
+Mother: He told me and I forgot to tell you. 
+Father: Apply for leave today. 
+Son: My teacher will not permit me. I must go to school. 
+Father: Go to the medical shop first and then go to school. 
+Son: Yes, father. 
+
+//church
+Ramesh: What is that building? 
+Latha: It is a Church. 
+Ramesh: I thought it to be a mosque. How do you know that it is a Church? 
+Latha: Can't you see the cross on the top of the tower? 
+Ramesh: Yes, I understand. When will the prayer begin? 
+Latha: It will begin at 10 A.M. 
+Ramesh: Shall we enter the church? Will they permit us? 
+Latha: They will permit us if we like to go in. 
+Ramesh: Will there be service on all days? 
+Latha: It will be on Sundays and on the days of Christian festivals. 
+
+//traffic cop and student
+Inspector: Get down. You are on the wrong way. 
+Student: Sir, I am sorry. I did not see the signal. 
+Inspector: You must be careful while crossing the road. 
+Student: Yes, sir. 
+Inspector: Where are you studying? 
+Student: I am studying in Don Bosco School. 
+Inspector: I shall visit your school one day. 
+Student: Why, sir?
+Inspector: I will deliver a lecture on traffic rules. I shall meet with your headmaster. 
+Student: I will inform him of your arrival. 
+
+
+//playground
+HARI : What is he doing with the roller? 
+RAJA : He is levelling the ground. 
+HARI : What is he doing with the spade? 
+RAJA : He is removing the grass and thorns with the spade. 
+HARI : Where is our P.E.T. Master? 
+RAJA : He is over there giving directions to the students. 
+HARI : When is our sports Day? 
+RAJA : The sports day is on Saturday the 23rd of this month. 
+HARI : Who presides over the sports Day function? 
+RAJA : Our Headmaster presides over the function. 
+HARI : Do you take part in any event? 
+RAJA : I take part in long jump. 
+
+//Child and Clerk 
+Child : Sir, I want to book one STD call to New York. 
+Clerk : What is the number? 
+Child : It is written on this piece of paper.
+Clerk : Wait for some time as the line for New York appears to be very busy. 
+Child : Shall I pay any advance? 
+Clerk : You may pay $3. 
+Child : Here is a $5 note. 
+Clerk : Try to give correct change. 
+Child : I have no change. I shall wait. 
+Clerk : Who are you those people outside the door? 
+Child : They are my parents. 
+Clerk : Ask them to sit down on the bench. 
+
+//admission
+Kathir: Good morning, Madam. 
+Head Mistress: Good morning. Sit down. What do you want? 
+Kathir: I want admission into Sixth Standard. 
+Head Mistress: Where did you study last year? 
+Kathir: I studied in Tirumangalam. 
+Head Mistress: Then why do you want admission here? 
+Kathir: My father has been transferred to Madurai Branch. 
+Head Mistress: What is your father? 
+Kathir: He is a Bank Officer. 
+Head Mistress: Where is he? 
+Kathir: He is seated there. Shall I call him? 
+Head Mistress: Fill in this application form and come in the afternoon. 
+
+//library
+Balan: Are you coming from the library? 
+Hari: Yes. I was there from 2 p.m. 
+Balan: What book are you carrying?
+Hari: It is a book on quiz. 
+Balan: Are you a member of the library? 
+Hari: Yes. I have been a member from January 2005. 
+Hari: Do you want to become a member? 
+Balan: Yes. What is the membership fee? 
+Hari: You must deposit $2 only. 
+Balan: What is the monthly subscription? 
+Hari: There is no monthly subscription. 
+Balan: How many books can we borrow at a time? 
+Hari: We can borrow three books at a time. 
+Balan: I will soon become a member of the library. 
+
+//post office clerk and boy
+CLERK: Boy, what do you want? 
+BOY: I want to send money to my brother. 
+CLERK: Where is the money order form? 
+BOY: Here it is. 
+CLERK: How much do you want to send to your brother? 
+BOY: Rupees one hundred only. 
+CLERK: Where is your brother studying? 
+BOY: He is studying in Theni. 
+BOY: Sir, what is the money order commission? 
+CLERK: Five rupees. 
+BOY: When will the money order reach him? 
+CLERK: Your brother will get the money tomorrow. Don't worry. 
+
+//movie theater
+Akbar: When did you start from your house? 
+Ragul: I started at about 4.30 p.m. 
+Akbar: Was there a crowd in the ticket counter when you came? 
+Ragul: When I came the counter was free. 
+Akbar: Today there is far less crowd than usual. 
+Ragul: Who is he on the screen? 
+Akbar: He is Vadivelu the comedian. 
+Ragul: He has become very popular recently. 
+Akbar: His film Maruthamalai is very famous. 
+Ragul: Yes. That is true. 
+
+//about tour program
+Teacher : Madan, bring your camera to take a photo of the tall building there. 
+Student : What is that, Sir? 
+Teacher : It is the lodge where we shall stay. 
+Student : What is the name of the lodge? 
+Teacher : It is called The Karnataka Palace. 
+Student : Shall we go around the famous lake here? 
+Teacher : Yes, we shall go and have a ride in the boat. 
+Student : What are they doing? 
+Teacher : They are playing hide and seek. 
+Student : The driver is not here. Where has he gone? 
+Teacher : He has gone to the hotel for a cup of tea. 
+
+
+21//I was in a public toilet and had just sat down, when I heard a voice from next cubicle. 
+He said "hi!! How are you?"
+Embrassed, I said, "I am doing Fine"
+The voice said, " What are you up to?"
+I said, "Just doing the same as you, sitting here"
+He said, "can I come over?"
+Annoyed, I said "Rather busy right now"
+The voice said, "listen I will have to call you back later, there's an idiot next door who is answering all my questions"
